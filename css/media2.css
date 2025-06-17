@@ -1,0 +1,641 @@
+/* BOTH TABS (VERTICAL) & MOBILES */
+
+@media only screen and (min-width: 0px) and (max-width: 992px) {
+	#logo {
+		width: 50% !important;
+		margin-top: 5px !important;
+		margin-bottom: 10px !important;
+	}
+	#usability_meter {
+		display:none !important;
+	}
+	.services_inner_page_box {
+		margin-top: 0px !important;
+		margin-bottom: 0px !important;
+	}
+	#usability_meter {
+		margin-left: 0% !important;
+	}
+	.empty_module_subsets_row {
+		display: none !important;
+	}
+	.services_subtitles4 {
+		padding-top: 15px !important;
+		padding-bottom: 8px !important;
+	}
+	.services_box_text1,
+	.services_box_text2 {
+		text-align: left !important;
+		padding-left: 0% !important;
+		padding-right: 0% !important;
+		width: 98% !important;
+		font-size: 0.95em !important;
+	}
+	.job_position_images {
+		display: none !important;
+	}
+	.services_subtitles4 {
+		font-size: 1.2em !important;
+		text-align: left !important;
+	}
+	.services_middle_wrapper {
+		margin-bottom: 15px !important;
+		margin-top: 15px !important;
+	}
+	.blog_image:hover {
+		transform: scale(1.0) !important;
+	}
+	.services_subtitles3 {
+		font-size: 1.1em !important;
+	}
+	.blog_article_name1 {
+		text-transform: capitalize !important;
+		font-weight: 400 !important;
+		font-size: 1.1em !important;
+	}
+	.blog_image {
+		margin-top: 0px !important;
+	}
+	#header_contact_number {
+		display: none !important;
+	}
+	#header_navigation_ul li a {
+		padding-bottom: 0px !important;
+		font-size: 1em !important;
+	}
+	.web_marketing_icons_columns {
+		padding-right: 0% !important;
+	}
+	#header_navigation_ul li {
+		margin-right: 0px !important;
+		margin-left: 4% !important;
+	}
+	#footer2_menu {
+		text-align: left !important;
+	}
+	#copyrights {
+		display: none !important;
+	}
+	#footer_fb_icon {
+		margin-right: 6% !important;
+	}
+	.footer_ul {
+		margin-bottom: 0px !important;
+	}
+	.footer_text {
+		margin-bottom: 0px !important;
+	}
+	.footer_title {
+		font-size: 1em !important;
+	}
+	#footer1 {
+		padding-bottom: 25px !important;
+	}
+	#home_services_list {
+		overflow-x: hidden !important;
+	}
+	.home_products_title1 {
+		font-size: 1.4em !important;
+	}
+	.home_products_title2 {
+		font-size: 1.3em !important;
+	}
+	.home_products_title {
+		padding-top: 15px !important;
+		padding-bottom: 12px !important;
+	}
+	.home_softwares_introduction {
+		width: 95% !important;
+		font-size: 0.9em !important;
+		margin-bottom: 10px !important;
+		line-height: 1.5 !important;
+	}
+	#hope_icon {
+		display: none !important;
+	}
+	#home_channel_manager_text {
+		padding-left: 5% !important;
+	}
+	#home_phone_image {
+		display: none !important;
+	}
+	#home_channel_manager_title {
+		padding-left: 5% !important;
+	}
+	.ul_type1 {
+		font-size: 0.9em !important;
+		line-height: 1.5 !important;
+		padding-bottom: 8px !important;
+		padding-top: 5px !important;
+	}
+	#channel_manager_agents_image {
+		margin-top: 0px !important;
+	}
+	.subtitle_type1 {
+		margin-top: 18px !important;
+		text-align: left !important;
+		margin-bottom: 20px !important;
+		font-size: 1.2em !important;
+	}
+	.text_type1 {
+		font-size: 0.9em !important;
+		margin-bottom: 25px !important;
+		line-height: 1.3 !important;
+	}
+	.icon_type1 {
+		font-size: 1.8em !important;
+	}
+	.subtitle_type2 {
+		font-size: 1.1em !important;
+		line-height: 1.2 !important;
+	}
+	#home_gallery {
+		margin-top: 0px !important;
+	}
+	#home_gallery_image_wrapper1 {
+		display: none !important;
+	}
+	#home_gallery_text_wrapper1 {
+		display: none !important;
+	}
+	#home_gallery_image_wrapper2 {
+		display: none !important;
+	}
+	#home_web_design_image {
+		margin-top: 20px !important;
+		margin-bottom: 5px !important;
+	}
+	#home_gallery_text_wrapper3 {
+		padding-left: 5% !important;
+	}
+	.home_gallery_title3 {
+		font-size: 1.3em !important;
+	}
+	.home_gallery_title4 {
+		font-size: 1.3em !important;
+		margin-top: 0px !important;
+		text-transform: capitalize !important;
+	}
+	#home_gallery_text_wrapper3 {
+		padding-top: 10px !important;
+		padding-bottom: 10px !important;
+	}
+	.home_gallery_title1 {
+		font-size: 1.3em !important;
+		line-height: 0.3 !important;
+	}
+	#home_gallery_text_wrapper2 {
+		padding-left: 5% !important;
+		padding-top: 5px !important;
+		padding-bottom: 5px !important;
+	}
+	.text_type2 {
+		padding-left: 0% !important;
+		line-height: 1.6 !important;
+		font-size: 0.9em !important;
+		margin-bottom: 10px !important;
+	}
+	#home_software_developing_icon {
+		width: 80% !important;
+	}
+	.subtitle_type3 {
+		margin-bottom: 2px !important;
+		padding-left: 0% !important;
+	}
+	.ul_type2 {
+		padding-left: 0% !important;
+		font-size: 0.9em !important;
+		line-height: 1.6 !important;
+	}
+	#home_services_payment_gateway_icon {
+		width: 70% !important;
+	}
+	.contact_details_name {
+		display: none !important;
+	}
+	#form_button {
+		font-size: 0.9em !important;
+	}
+	#inner_page_title {
+		font-size: 1.1em !important; 
+	}
+	.contact_form_field {
+		font-size: 0.95em !important;
+	}
+	.contact_social_media_icon {
+		margin-bottom: 30px !important;
+		font-size: 2em !important;
+	}
+	#contact_address {
+		margin-bottom: 20px !important;
+	}
+	#contact_form {
+		margin-bottom: 20px !important;
+	}
+	.text_type3 {
+		font-size: 0.95em !important;
+		margin-bottom: 10px !important;
+	}
+	.jobs_menu {
+		margin-bottom: 5px !important;
+		font-size: 0.9em !important;
+	}
+	#contact_table {
+		font-size: 0.9em !important;
+	}
+	.jobs_ul {
+		font-size: 0.9em !important;
+	}
+	.jobs_subtitle {
+		font-size: 0.9em !important;
+	}
+	.job_description {
+		margin-bottom: 0px !important;
+	}
+	.article_text1 {
+		font-size: 0.9em;
+	}
+	.blog_services_buttons {
+		margin-bottom: 20px !important;
+	}
+	.blog_subtitle {
+		font-size: 1.1em !important;
+		line-height: 1.3 !important;
+		margin-top: 25px !important;
+	}
+	#article_wrapper {
+		margin-top: 0px !important;
+	}
+	.article_ol_ul {
+		font-size: 0.9em !important;
+	}
+	.blog_services_title1 {
+		font-size: 1.2em !important;
+		text-transform: capitalize !important;
+		margin-bottom: 0px !important;
+		font-weight: 600 !important;
+		padding-left: 0% !important;
+		color: black !important;
+		background-color: transparent !important;
+	}
+	.blog_services_title2 {
+		font-size: 1.2em !important;
+	}
+	.blog_sidebar_number {
+		font-size: 1.3em !important;
+	}
+	.blog_sidebar_title {
+		font-size: 1.3em !important;
+	}
+	.blog_go_back_button {
+		display: none !important;
+	}
+	#footer_linkedin_icon {
+		margin-right: 2% !important;
+	}
+	.event_wrapper {
+		margin-bottom: 35px !important;
+		margin-top: 35px !important;
+	}
+	.event_button {
+		font-size: 0.9em !important;
+		text-transform: capitalize !important;
+	}
+	.services_page_text {
+		font-size: 0.9em !important;
+	}
+	.logo_design_image {
+		float: none !important;
+		margin-right: auto !important;
+		margin-left: auto !important;
+		display: block !important;
+	}
+	#services_gallery {
+		margin-bottom: 15px !important;
+		margin-top: 30px !important;
+	}
+	.services_thumbnail_image {
+		height: auto !important;
+		width: auto !important;
+	}
+	.services_page_title {
+		font-size: 1.1em !important;
+	}
+	.services_page_main_wrapper {
+		margin-top: 30px !important;
+	}
+	.quick_menu_title {
+		display: none !important;
+	}
+	.quick_menu_dropdown {
+		margin-bottom: 0px !important;
+		font-size: 0.9em !important;
+	}
+	.services_page_description {
+		font-size: 0.9em !important;
+	}
+	#services_page_last_service {
+		margin-bottom: 40px !important;
+	}
+	.services_page_button {
+		font-size: 1.05em !important;
+		margin-bottom: 15px !important;
+	}
+	.event_name1 {
+		font-size: 1.1em !important;
+		margin-top: 6px !important;
+	}
+	#contact_menu_dropdown {
+		display: none !important;
+	}
+	#contact_menu_title {
+		display: none !important;
+	}
+	.services_page_images {
+		width: 70% !important;
+	}
+	.event_date {
+		margin-bottom: 5px !important;
+		font-size: 0.9em !important;
+	}
+	.desktop_br {
+		display: none !important;
+	}
+	.event_description {
+		width: 100% !important;
+		margin-bottom: 8px !important;
+		font-size: 0.9em !important;
+	}
+	#video_container {
+		margin-bottom: 30px !important;
+	}
+	#gallery_container {
+		margin-top: 30px !important;
+		margin-bottom: 30px !important;
+	}
+	.events_image_thumbnail {
+		width: 150px !important;
+		height: 150px !important;
+	}
+	#services_page_top_row {
+		margin-top: 0px !important;
+	}
+	.services_list_title {
+		font-size: 1.05em !important;
+		margin-bottom: 30px !important;
+	}
+	.web_marketing_icon_image {
+		width: 40% !important;
+		margin-right: auto !important;
+		display: block !important;
+		margin-left: auto !important;
+	}
+	.services_border_column {
+		border: none !important;
+	}
+	.clients_profiles {
+		width: 100% !important;
+	}
+	.clients_sector {
+		font-size: 1.3em !important;
+	}
+	#clients_categories {
+		display: none !important;
+	}
+	.clients_page_sections {
+    padding-right: 10% !important;
+    padding-left: 10% !important; 
+    }
+    .clients_name {
+    	font-size: 0.9em !important;
+    	text-align: left !important;
+    }
+    #about_logo {
+    	display: none !important;
+    }
+    .home_gallery_about {
+    	display: none !important;
+    }
+    .about_client {
+    margin-bottom: 30px !important;
+    }
+    #about_products_row {
+    	display: none !important;
+    }
+    .about_buttons  { 
+    width: 90% !important;
+    font-size: 1em !important;
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+   }
+   #about_main_image {
+   	float: none !important;
+   	margin-top: 10px !important;
+   	margin-bottom: 10px !important;
+   }
+   #about_slogan {  
+    font-size: 1em !important;
+    padding-top: 5px !important;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    padding-bottom: 6px !important;
+   }
+   .about_paragraph {
+   	font-size: 0.95em !important;
+   }
+   .about_team_image {
+    margin-top: 25px !important; 
+    margin-bottom: 25px !important; 
+   }
+   .about_page_title {
+   	margin-bottom: 5px !important;
+   }
+   #products_title_text_box {
+    margin-top:0px !important;
+    padding-top: 15px !important;
+    margin-left: 0px !important
+
+   }
+   .products_single_page_slogan {
+   	font-size: 1.3em !important;
+   }
+   #products_contact {
+   	font-size: 1.2em !important;
+   }
+   #products_summary {
+    font-size: 1em !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    }
+   #banquet_software_title_background {
+   	margin-bottom: 15px !important;
+   	background-position-y: center !important;
+   	min-height: auto !important
+   }
+   #products_contact {
+    font-size: 1.1em !important;
+    text-align: center !important;
+    }
+   .mobile_br {
+   	display: none !important;
+   }
+   #product_features_column {
+    margin-bottom: 30px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    background-position-y: center !important;
+    background-attachment: inherit !important;
+   }
+   .hope_page_icons {
+   	display: none !important;
+   }
+   .hotel_management_software_colour_box {
+   	margin-top: 2px !important;
+   	border-radius: 8px !important;
+   	padding-right: 0px !important;
+   	padding-left: 0px !important;
+   	width: 100% !important;
+    font-size: 1em !important;
+    min-height: auto !important;
+    padding-bottom: 15px !important;
+    padding-top: 15px !important;
+	   margin-bottom: 8px;
+   }  
+   .features_ul {
+   	font-size: 1em !important;
+   	margin-bottom: 0px !important;
+   }
+   .tag_clouds {
+   	display: none !important;
+   }
+   #products_tag_clouds_title {
+   	margin-top: 0px !important;
+   } 
+   #products_more_button {
+    margin-bottom: 20px !important;
+   }
+   #product_features_column {
+   	margin-top: 15px !important;
+   }
+   #product_features_column {
+   	padding-top: 20px !important;
+   }
+   .features_ul li {
+    padding-top: 4px !important;
+   }
+   #tag_cloud_title {
+   	display: none !important;
+   }
+   #software_title_background {
+   	background-position-y: center !important;
+    margin-bottom: 12px !important;
+    min-height: auto !important;
+   }
+   .timeline {
+   	padding:0px !important;
+   }
+   .modules_box {
+    margin-bottom: 15px !important;
+   }
+   .services_box_text1 {
+   	padding-bottom: 10px !important;
+   }
+   #module_type {
+   	font-size: 1.1em !important;
+   }
+   .module_subsets_row {
+   	font-size: 1em !important;
+   }
+   #last_module_box {
+	margin-bottom: 40px !important;
+    }
+    .last_module_box {
+	margin-bottom: 40px !important;
+    }
+    .timeline > li > .timeline-panel {
+    	padding:12px !important;
+    }
+    .timeline > li:not(.timeline-inverted) {
+    padding-right: 0px !important;
+    width: 100% !important;
+    }
+    .timeline-body-sentences {
+    	font-size: 1em !important;
+    }
+    .timeline-title {
+    	font-size: 1.1em !important;
+    }
+    .timeline > li.timeline-inverted {
+    padding-left: 0px !important;
+    margin-top: 20px !important;
+    }
+    .timeline > li > .timeline-panel {
+    	width: 100% !important;
+    }
+    .timeline-badge {
+    	display: none !important;
+    }
+    .timeline:before {
+    	display: none !important;
+    }
+    .timeline > li.timeline-inverted > .timeline-panel {
+    float: none !important;
+   }
+   .faq_features_box {
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+   } 
+   #services_contact_number {
+   	width: 100% !important;
+    font-size: 1.1em !important;
+   } 
+   .services_ul_styles li {
+    font-size: 1em !important; 
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
+    padding-bottom: 0px !important;
+  }
+  #hope_slogan {
+    font-size: 1em !important;
+    margin-top: 20px !important;
+  }
+  .ecommerce_feature_text {
+  	font-size: 1em !important;
+  }
+  #ecommerce_feature_sectors {
+  	display: none !important;
+  }
+  #hotel_software_process {
+  	margin-top: 20px !important;
+  	margin-bottom: 10px !important;
+  }
+  .web_design_features {
+  	padding-bottom: 4px !important;
+  	padding-top: 4px !important;
+  	font-size: 0.9em !important;
+  }
+  .web_design_package {
+  	margin-bottom: 20px !important;
+  }
+  #pro_package {
+    margin-bottom: 30px;
+  }
+  #ecommerce_sample2 {
+    margin-bottom: 5px !important;
+  }
+  .ecommerce_feature_title {
+  	font-size: 1em !important;
+  }
+  #ecommerce_contact {
+  	display: none !important;
+  }
+  .ecommerce_feature_sectors {
+    margin-bottom: 25px !important;
+  }
+  .package_pages {
+  	font-size: 1.1em !important;
+  }
+  .package_titles {
+  	font-size: 1.2em !important;
+  }
+}

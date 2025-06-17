@@ -1,0 +1,226 @@
+#products_title_text_box2{
+        background: rgb(0,170,216);
+        background: linear-gradient(180deg, rgba(0,170,216,1) 0%, rgba(0,90,114,1) 44%);    
+        color: white;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 25px;
+        margin-left: 5%;
+        margin-top: 50px;
+        padding-bottom: 25px;
+        border-radius: 8px;
+}
+.products_single_page_slogan2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 2.9em;
+    text-transform: capitalize;
+    font-weight: bold;
+    line-height: normal;
+    
+}
+
+#products_summary2 {
+    font-family: 'roboto', sans-serif;
+    line-height: 1.5;
+    font-size: 1.4em;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-weight: 100;
+}
+
+.centerBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.offerImgArea{
+    position: relative;
+}
+
+@media  (min-width: 770px) {
+
+    .offerImg{
+        position: absolute;
+        top: -230px;
+        /* left: 80px; */
+    }
+}
+
+
+
+/* .formbg {
+    background-color: white;
+} */
+
+label li{
+    color: #000;
+}
+.form-container {
+   
+    font-size: 16px;
+    /* margin: 50px auto; */
+    padding: 20px;
+    /* background-color: #F5F5F5; */
+    border: 1px solid #2a3d58;
+    border-radius: 10px;
+}
+
+.form-group{
+    padding: 5px 0 5px 0;
+}
+
+.form-control, .btn {
+    background-color: #fff;
+    border-color: #D4D4D4;
+}
+.form-control {
+    color: #000;
+}
+.btn {
+    background-color: #00244B;
+    color: #fff;
+    width: auto;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.form-check-label {
+    color: #2a3d58;
+}
+label {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.6 em;
+    color: #000;
+
+}
+
+.mainTitle{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+
+}
+
+
+
+hr .offerHr {
+    border: none;
+    height: 50px; /* Increase height here */
+    background-color: #cbcbcb; /* Change color here */
+    margin:0 0 20px 0; /* Add spacing if needed */
+}
+
+.oneline{
+    display: flex;
+    justify-content: flex-start;
+    gap: 50px;
+    margin-top:10px;
+}
+
+.hope_page_icons2 {
+    font-size: 1.5em;
+    color: #ffffff;
+    
+}
+
+
+
+#hotel_management_software_colour_boxall{
+    background: rgb(100,187,180);
+    background: linear-gradient(180deg, rgba(100,187,180,1) 0%, rgba(42,200,245,1) 44%);
+}
+
+.hotel_management_software_colour_box2 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 1.4em;
+    margin-top: 25px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    border-radius: 4px;
+    min-height: 170px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#hope_slogan3 {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 50px;
+    line-height: 1.7;
+    font-size: 0.6 em;
+    color: #546678;
+    margin-left: 36px;
+}
+
+#hope_slogan4 {
+    font-family: 'Poppins', sans-serif;
+    color: #050505;
+    margin: 0;
+    margin-left: 36px;
+}
+
+#hope_slogan2 {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 50px;
+    line-height: 1.7;
+    font-size: 0.6 em;
+    color: #546678;
+}
+
+.mainTite h3{
+    font-family: 'poppins', sans-serif;
+    font-size: 1.9em;
+    color: #00AAD8;
+}
+
+
+
+@media  (max-width: 770px) {
+
+    .offerImg{
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    .offerImgArea img{
+        width:80%;
+        height: auto;
+       
+    }
+
+    #products_title_text_box2{
+        margin-left: 0;
+    }
+
+    .hotel_management_software_colour_box2 {
+        display: flex;
+        flex-direction: column;
+        align-content: space-around;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+
+    #hope_slogan3 {
+        font-family: 'Poppins', sans-serif;
+        line-height: 1.7;
+        font-size: 0.6 em;
+        color: #546678;
+        margin: 0;
+        padding: 10px;
+    }
+
+    #hope_slogan4 {
+        font-family: 'Poppins', sans-serif;
+        color: #546678;
+        margin: 0;
+        padding: 10px;
+    }
+
+}

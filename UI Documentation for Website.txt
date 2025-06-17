@@ -1,0 +1,64 @@
+01. Plugins
+a. Font Icons 
+Embed using Font Awesome Icon Fonts - http://fontawesome.io
+Version 5  
+Please Locate Fonts Folder, JS Folder and CSS Folder (icons.css) 
+
+b. Bootstrap Framework 
+Version 4 - https://getbootstrap.com/docs/4.0/
+Please Locate Bootstrap Folders in Public Folder
+
+c. CSS Animations, Transitions & Keyframes
+Please locate "wow.css" file in CSS Folder to view CSS Plugin - https://mynameismatthieu.com/WOW/
+A minified Js script was placed in the head section 
+
+d. jQuery
+Version 2.1.4
+
+e. Fonts
+All the fonts were embed from Google Fonts - https://fonts.google.com/ 
+
+f. Gallery
+Please locate "gallery.css" file in CSS Folder & "gallery.js" file in JS Folder 
+
+g. Home Page Slider
+Please Locate "slider.css" file in CSS Folder
+Please locate "animate.css" file in CSS Folder
+Please locate "index.php" file in root
+
+h. Google Analytics
+Please locate "google_analytics.js" in Js Folder
+
+i. Scroll to Top Arrow
+Please locate arrow1.js file in Js Folder
+
+-----------------------------------------------------------------------------------
+
+02. Folder & File Structures 
+a. Inserting Styles
+Please locate "layout2.css" file in CSS Folder 
+
+b. Responsive (Media Queries) 
+Please Locate "media2.css" file in CSS Folder  
+ 
+c. PHP Include Functions 
+Please locate Includes Folder
+Head.php - Website Head
+Header.php - Website Header
+Footer.php - Website Footer  
+All-Services.php - ALL Services List in Single Services Pages
+Services.php - 
+Home-Services.php - Key Services Section in Home Page
+Hotel-Clients.php - Hotel Clients in Products Pages 
+ 
+d. Inquiry Form 
+Locate Contactus.php File (Inside 'Head' Section) to view all the HTML codes
+Enquiry File - enquiry.php - All the PHP Codes
+Library File - lib.js (JS Folder) - All the Js Codes  
+ 
+-----------------------------------------------------------------------------------
+
+03. Responsive (CSS Media Queries) 
+a. 0px - 992px
+For Mobile Phones and Tablets (Vertical)
+ 
