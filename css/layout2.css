@@ -2074,7 +2074,7 @@ padding-left:90px;
 .feature-card {
     background-color: var(--background-light);
     /*border: 1px solid var(--primary-light);*/
-	min-height: 250px;
+	height: 250px;
 }
 
 .feature-card:hover {
@@ -2244,6 +2244,10 @@ padding-left:90px;
 
 .feature-card {
     text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
     padding: 30px;
     background-color: white;
     border-radius: 10px;

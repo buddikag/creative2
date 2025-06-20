@@ -2,7 +2,7 @@
 <div class="container-fluid py-4" id="footer1" title="Web Designing and Software Development Company in Sri Lanka">
    <div class="row" title="Web Designing and Software Development Company in Sri Lanka">
    	  <!-- Column 01 -->
-      <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12" title="Creative-2 Web Designing and Software Development Company in Sri Lanka">
+      <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12" title="Creative-2 Web Designing and Software Development Company in Sri Lanka">
       	 <!-- Title -->
          <div class="footer_title mb-4" title="Creative-2 Web Designing and Software Development Company in Sri Lanka">About Us</div>
          <!-- Text -->
@@ -10,7 +10,7 @@
          </p>
       </div>
       <!-- Column 02 -->
-      <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12" title="Creative-2 Web Designing and Software Development Company in Sri Lanka Location / Address">
+      <div class="col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12" title="Creative-2 Web Designing and Software Development Company in Sri Lanka Location / Address">
       	 <!-- Title -->
          <div class="footer_title mb-4" title="Creative-2 Web Designing and Software Development Company in Sri Lanka Location / Address">Locate Us</div>
          <!-- List -->
@@ -26,7 +26,7 @@
          </ul>
       </div>
       <!-- Column 03 -->
-      <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12" title="Software Development Company in Sri Lanka">
+      <div class="col-xl-3 col-lg-3 col-md-4 col-sm-12 col-12" title="Software Development Company in Sri Lanka">
       	 <!-- Title -->
          <div class="footer_title mb-4" title="Software Development Company in Sri Lanka">Quick Links</div>
          <!-- List -->
@@ -42,7 +42,7 @@
          </ul>
       </div>
       <!-- Column 04 -->
-      <div class="col-xl-2 col-lg-2 col-md-2 col-sm-12 col-12" title="Contact Creative-2 : Web Designing and Software Development Company in Sri Lanka">
+      <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12 col-12" title="Contact Creative-2 : Web Designing and Software Development Company in Sri Lanka">
          <!-- Title -->
          <div class="footer_title mb-4" title="Contact Creative-2 : Web Designing and Software Development Company in Sri Lanka">Contact Us</div>
          <!-- List -->

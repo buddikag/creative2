@@ -6,7 +6,7 @@
          <div class="row" title="Software Development Outsourcing Services in Sri Lanka">
             <!-- Icon -->
             <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-2 no_space_right2" title="Software Development Outsourcing Services in Sri Lanka - Icon"> 
-               <img id="home_software_developing_icon" src="images/home/software-development-company-in-sri-lanka.png" title="Software Development Outsourcing Services in Sri Lanka - Icon">
+               <i class="fas fa-laptop icon_type1" title="Software Development Outsourcing Services in Sri Lanka - Icon"></i>
             </div>
             <!-- Text -->
             <div class="col-xl-10 col-lg-10 col-md-10 col-sm-10 col-10" title="Software Development Outsourcing Services in Sri Lanka - Text">
@@ -15,7 +15,7 @@
                   Outsourcing
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Software Development Outsourcing Services in Sri Lanka - Description">We offer complete Software Development services to enhance productivity.</p>
+               <p class="text_type1 text-left" title="Software Development Outsourcing Services in Sri Lanka - Description">We offer complete Software Development services to enhance productivity.</p>
             </div>
          </div>
       </a>
@@ -35,7 +35,7 @@
                   Outsourcing
                </div>
                <!-- Description -->
-               <p class="text_type1" title="UI and UX Design Outsourcing Services in Sri Lanka - Description">We offer complete UI and UX Design services to help businesses to enhance productivity.</p>
+               <p class="text_type1 text-left" title="UI and UX Design Outsourcing Services in Sri Lanka - Description">We offer complete UI and UX Design services to help businesses to enhance productivity.</p>
             </div>
          </div>
       </a>
@@ -46,7 +46,7 @@
          <div class="row" title="Web Based Software Development in Services Sri Lanka">
             <!-- Icon -->
             <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-2 no_space_right2" title="Web Based Software Development Services in Sri Lanka - Icon"> 
-               <i class="fas fa-laptop icon_type1" title="Web Based Software Development Services in Sri Lanka - Icon"></i>
+               <i class="fas fa-globe icon_type1" title="Web Based Software Development Services in Sri Lanka - Icon"></i>
             </div>
             <!-- Text -->
             <div class="col-xl-10 col-lg-10 col-md-10 col-sm-10 col-10" title="Web Based Software Development Services in Sri Lanka - Text">
@@ -56,7 +56,7 @@
                   Development
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Web Based Software Development Services in Sri Lanka - Description">Is your current website incapable of fulfilling all your online marketing objectives? </p>
+               <p class="text_type1 text-left" title="Web Based Software Development Services in Sri Lanka - Description">Is your current website incapable of fulfilling all your online marketing objectives? </p>
             </div>
          </div>
       </a>
@@ -80,7 +80,7 @@
                   Web Portal Development
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Web Designing and Web Portal Development in Services in Sri Lanka - Description">Is your current website incapable of fulfilling all your online marketing objectives? </p>
+               <p class="text_type1 text-left" title="Web Designing and Web Portal Development in Services in Sri Lanka - Description">Is your current website incapable of fulfilling all your online marketing objectives? </p>
             </div>
          </div>
       </a>
@@ -101,7 +101,7 @@
                   Shopping Carts
                </div>
                <!-- Description -->
-               <p class="text_type1" title="eCommerce and Shopping Carts Development Services in Sri Lanka - Description">It can be even used to create an online food ordering portal system. You can customize it.</p>
+               <p class="text_type1 text-left" title="eCommerce and Shopping Carts Development Services in Sri Lanka - Description">It can be even used to create an online food ordering portal system. You can customize it.</p>
             </div>
          </div>
       </a>
@@ -122,7 +122,7 @@
                   Services
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Graphic Designing Services in Sri Lanka - Description">Creative-2 enable companies to efficiently and cost-effectively strengthen brand positioning. </p>
+               <p class="text_type1 text-left" title="Graphic Designing Services in Sri Lanka - Description">Creative-2 enable companies to efficiently and cost-effectively strengthen brand positioning. </p>
             </div>
          </div>
       </a>
@@ -146,7 +146,7 @@
                   Solutions
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Web Hosting Services in Sri Lanka - Description">Powerful Web Hosting Made Easy and Affordable. Great Bundle with Every Plan!</p>
+               <p class="text_type1 text-left" title="Web Hosting Services in Sri Lanka - Description">Powerful Web Hosting Made Easy and Affordable. Great Bundle with Every Plan!</p>
             </div>
          </div>
       </a>
@@ -157,7 +157,7 @@
          <div class="row" title="Payment Gateway Integration Solutions in Sri Lanka">
             <!-- Icon -->
             <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-2 no_space_right2" title="Payment Gateway Integration Solutions in Sri Lanka - Icon">  
-               <img id="home_services_payment_gateway_icon" src="images/home/payment-gateway-integration.png" title="Payment Gateway Integration Solutions in Sri Lanka - Icon">
+               <i class="fas fa-credit-card icon_type1" title="Payment Gateway Integration Solutions in Sri Lanka - Icon"></i>
             </div>
             <!-- Text -->
             <div class="col-xl-10 col-lg-10 col-md-10 col-sm-10 col-10" title="Payment Gateway Integration Solutions in Sri Lanka - Text">
@@ -167,7 +167,7 @@
                   Integration
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Payment Gateway Integration Solutions in Sri Lanka - Description">Compatible with Sampath Bank payment gateway. Other payment gateways can be integrated.</p>
+               <p class="text_type1 text-left" title="Payment Gateway Integration Solutions in Sri Lanka - Description">Compatible with Sampath Bank payment gateway. Other payment gateways can be integrated.</p>
             </div>
          </div>
       </a>
@@ -188,7 +188,7 @@
                   Services
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Photography Services for Websites in Sri Lanka - Description">Professional photography services for your website and digital marketing use.</p>
+               <p class="text_type1 text-left" title="Photography Services for Websites in Sri Lanka - Description">Professional photography services for your website and digital marketing use.</p>
             </div>
          </div> 
        </a>  
@@ -212,7 +212,7 @@
                   Marketing
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Web Marketing Services in Sri Lanka - Description">We help to gather potential customers and the number of quality leads to your website as well.</p>
+               <p class="text_type1 text-left" title="Web Marketing Services in Sri Lanka - Description">We help to gather potential customers and the number of quality leads to your website as well.</p>
             </div>
          </div>
       </a>
@@ -232,7 +232,7 @@
                   Maintenance
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Website Maintenance Services in Sri Lanka - Description">Once your website is online, it will inevitably need to be updated to keep your content fresh.</p>
+               <p class="text_type1 text-left" title="Website Maintenance Services in Sri Lanka - Description">Once your website is online, it will inevitably need to be updated to keep your content fresh.</p>
             </div>
          </div>
       </a>
@@ -253,7 +253,7 @@
                   Consulting
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Website Design Consulting Services in Sri Lanka - Description">We offer Consultancy Services that can suggest the most cost-effective solution for your needs.</p>
+               <p class="text_type1 text-left" title="Website Design Consulting Services in Sri Lanka - Description">We offer Consultancy Services that can suggest the most cost-effective solution for your needs.</p>
             </div>
          </div> 
        </a>  
@@ -276,7 +276,7 @@
                   & Testing
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Website Quality Assurance / QA Services in Sri Lanka - Description">An important step in the development process you should not be skipped.</p>
+               <p class="text_type1 text-left" title="Website Quality Assurance / QA Services in Sri Lanka - Description">An important step in the development process you should not be skipped.</p>
             </div>
          </div>
       </a>
@@ -297,7 +297,7 @@
                   Analysis
                </div>
                <!-- Description -->
-               <p class="text_type1" title="Website Usability Analysis Services in Sri Lanka - Description">We can identify issues you don't even know you have on the Website. </p>
+               <p class="text_type1 text-left" title="Website Usability Analysis Services in Sri Lanka - Description">We can identify issues you don't even know you have on the Website. </p>
             </div>
          </div>
       </a>

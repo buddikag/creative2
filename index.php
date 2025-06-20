@@ -204,10 +204,10 @@
                     <p>Seamlessly manage bookings across multiple channels with our integrated channel management system.</p>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 ">
                 <div class="feature-card">
                     <i class="fas fa-chart-line featureicon"></i>
-                    <h3>Real-Time <br>Analytics</h3>
+                    <h3 class="d-flex flex-column flex-md-row flex-lg-column">Real-Time <span>Analytics</span></h3>
                     <p>Make data-driven decisions with comprehensive reporting and analytics tools.</p>
                 </div>
             </div>
@@ -215,19 +215,23 @@
 
         <!-- Benefits Section -->
         <div class="row benefits-section mobile-text-center">
-            <div class="col-xl-6 col-lg-6 col-md-12 ">
-                <h3 class="mb-4">Why Choose HOPE?</h3>
-                <ul class="list-unstyled px-4 px-md-0">
-                    <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Fully web-based centralized system</li>
-                    <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Unlimited user accounts</li>
-                    <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Cross-platform compatibility</li>
-                    <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Cost-effective solution</li>
-                    <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Secure data backup</li>
-                    <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Easy installation and maintenance</li>
+            <div class="col-xl-6 col-lg-6 col-md-12 mb-3 mb-md-0">
+                <h3 class="mb-4 text-center text-lg-left">Why Choose HOPE?</h3>
+                <ul class="row list-unstyled px-4 px-md-0">
+                    <div class="col-12 col-md-6 col-lg-12">
+                        <li class="mb-2 d-flex"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Fully web-based centralized system</li>
+                        <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Unlimited user accounts</li>
+                        <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Cross-platform compatibility</li>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-12">
+                        <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Cost-effective solution</li>
+                        <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Secure data backup</li>
+                        <li class="mb-2"><i class="fas fa-check-circle mr-2 benifitsicon"></i> Easy installation and maintenance</li>
+                    </div>
                 </ul>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-12 benefits-image">
-                <img src="images/" alt="HOPE Hotel Management Software Dashboard" class="img-fluid">
+                <img src="images/home/hope-hotel-management-system.png" alt="HOPE Hotel Management Software Dashboard" class="img-fluid">
             </div>
         </div>
 
@@ -254,7 +258,7 @@
                     <p>Manage restaurant, spa, and other hotel services seamlessly</p>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 ">
                 <div class="feature-card">
                     <i class="fas fa-chart-bar featureicon"></i>
                     <h4>Financial Reports</h4>
