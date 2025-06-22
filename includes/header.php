@@ -1,7 +1,7 @@
 <!-- Logo -->
 <div class="container-fluid" id="header" title="Web Designing and Software Development Company Sri Lanka - Logo">
    <div class="row" title="Web Designing and Software Development Company Sri Lanka - Logo">
-      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" title="Web Designing and Software Development Company Sri Lanka - Logo">
+      <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12 mx-auto" title="Web Designing and Software Development Company Sri Lanka - Logo">
          <a href="index.php" class="link" title="Web Designing and Software Development Company Sri Lanka - Logo">
             <img src="images/header/creative2-web-design-and-software-developing-company-in-sri-lanka.jpg" class="img-fluid py-3" id="logo" title="Web Designing and Software Development Company Sri Lanka - Logo" alt="Web Designing and Software Development Company Sri Lanka - Logo" />
          </a>
@@ -14,8 +14,8 @@
       <!--  Space -->
       <!-- <div class="col-xl-1 col-lg-1 col-md-1 col-sm-12 col-12 no_space" title="Web Designing and Software Development Company Sri Lanka - Space"></div> -->
       <!-- Menu -->
-      <div class="no_space mx-2 mx-lg-auto" title="Web Designing and Software Development Company Sri Lanka - Menu">
-         <nav class="navbar navbar-expand-lg no_space" id="navigation" title="Web Designing and Software Development Company Sri Lanka - Menu">
+      <div class="no_space mx-2 mx-xl-auto" title="Web Designing and Software Development Company Sri Lanka - Menu">
+         <nav class="navbar navbar-expand-xl no_space" id="navigation" title="Web Designing and Software Development Company Sri Lanka - Menu">
             <!-- Hamburger Icon -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" title="Web Designing and Software Development Company Sri Lanka - Menu">
                <i class="fas fa-bars" id="mobile_menu_icon"></i>

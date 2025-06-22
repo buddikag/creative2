@@ -1310,11 +1310,12 @@ input[type=number]::-ms-outer-spin-button {
 	padding-right: 5%;
 	border: solid 1px #d36307;
 	font-size: 1.1em;
+	transition: all 0.4s linear;
 }
 
 .about_buttons:hover {
-	color: black;
-	transition: all 0.5s linear;
+	color: #ff7300;
+	background: transparent;
 }
 
 #clearing_box1 {
@@ -2358,7 +2359,6 @@ padding-left:90px;
 /* Responsive Design */
 
 @media (max-width: 991.98px) {
-
 	.herotitle {
 		font-size: 3rem;
 	}
