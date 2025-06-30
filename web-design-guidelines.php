@@ -22,7 +22,7 @@
       <div class="container-fluid" id="inner_page_title" title="Web Designing Articles / Web Designing Guidelines">
          <div class="row" title="Web Designing Articles / Web Designing Guidelines">
             <div class="col-md-12 col-sm-12 col-12 col-lg-12 col-xl-12" title="Web Designing Articles / Web Designing Guidelines">
-               Web Design Guidelines
+               <h1>Web Design Guidelines</h1>
             </div>
          </div>
       </div>

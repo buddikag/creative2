@@ -37,7 +37,7 @@ html {
     transform: translate(-50%, -50%);
     width: 75%;
     text-align: center;
-	font-size: 5rem;
+	font-size: 5.5rem;
     color: white;
     font-weight: 500;
     z-index: 2;
@@ -470,17 +470,12 @@ button:focus {
 
 #footer_fb_icon {
 	color: #365e96;
-	float: right;
 	font-size: 2em;
-	margin-left: 2%;
-	margin-top: 10px;
 }
 
 #footer_linkedin_icon {
 	color: #0475b6;
-	float: right;
 	font-size: 2em;
-	margin-top: 10px;
 }
 
 
@@ -615,17 +610,27 @@ input[type=number]::-ms-outer-spin-button {
 }
 
 .jobs_menu {
+	width: 100%;
+	padding: 8px;
 	font-family: 'Poppins', sans-serif;
 	background-color: transparent;
-	border: none;
+	border: 1px solid black;
 	margin-right: 2%;
 	margin-bottom: 15px;
 	cursor: pointer;
 }
 
+.job_heading1 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 3rem;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
 .jobs_ul {
 	font-family: 'Poppins', sans-serif;
 	list-style-type: none;
+	padding-left: 1.3rem;
 }
 
 .jobs_ul li {
@@ -641,7 +646,7 @@ input[type=number]::-ms-outer-spin-button {
 }
 
 .jobs_ul {
-	padding-left: 5%;
+	
 }
 
 .job_description {
@@ -991,8 +996,21 @@ input[type=number]::-ms-outer-spin-button {
 
 .services_page_description {
 	font-family: 'Poppins', sans-serif;
+	font-size: 0.9rem;
 	line-height: 1.5;
 	margin-bottom: 8px;
+}
+
+.services_image {
+	width: 100%;
+	height: auto;
+}
+
+.content_section_service{
+	height: 300px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 }
 
 #services_page_last_service {
@@ -1000,28 +1018,46 @@ input[type=number]::-ms-outer-spin-button {
 }
 
 .services_page_button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
 	font-family: 'Poppins', sans-serif;
-	background-color: var(--primary-color);
-	border: none;
+	
+	background-color: transparent;
+	border: 1px solid var(--primary-color);
 	cursor: pointer;
-	color: var(--text-light);
-	font-size: 1.2em;
-	padding-left: 0%;
-	font-weight: 600;
+	color: var(--primary-color);
+	font-size: 1em;
+	width: 100%;
+	padding: 12px;
+	margin-top: 15px;
+	transition: all 0.3s ease-in-out;
 }
 
 .services_page_title {
 	word-spacing: 5px;
 	font-size: 1.5em;
-	font-weight: 800;
-	margin-bottom: 7px;
+	font-weight: 700;
+	margin: 15px 0;
 	font-family: 'Poppins', sans-serif;
 	line-height: 1.13;
 	color: black;
 }
 
+.link .fa-angle-double-right{
+	transform: translateX(0);
+	transition: all 0.3s ease-in-out;
+}
+
+.link:hover .fa-angle-double-right{
+	transform: translateX(5px);
+}
+
 .services_page_button:hover {
 	background-color: var(--primary-light);
+	color: white;
+	border: 1px solid var(--primary-light);
 }
 
 .services_left_column {
@@ -1209,6 +1245,13 @@ input[type=number]::-ms-outer-spin-button {
 	line-height: 1.7;
 	margin-bottom: 15px;
 	margin-top: 25px;
+}
+
+.about_section_paragraph{
+	font-family: 'Poppins', sans-serif;
+	font-size: 1rem;
+	line-height: 1.7;
+	margin: 20px 0;
 }
 
 #product_button {
@@ -2100,14 +2143,14 @@ padding-left:90px;
 }
 
 /* Updated Service Cards */
-.services_page_button {
+/* .services_page_button {
     background-color: var(--primary-color);
     color: var(--text-light);
-}
+} */
 
-.services_page_button:hover {
+/* .services_page_button:hover {
     background-color: var(--primary-light);
-}
+} */
 
 /* Updated Footer Styles */
 #footer1 {
@@ -2161,9 +2204,9 @@ padding-left:90px;
 }
 
 /* Updated Hover Effects */
-.services_page_button:hover {
+/* .services_page_button:hover {
     background-color: var(--primary-light);
-}
+} */
 
 .feature-card:hover {
     box-shadow: 0 4px 8px rgba(27, 1, 65, 0.2);
@@ -2360,7 +2403,14 @@ padding-left:90px;
 
 @media (max-width: 991.98px) {
 	.herotitle {
-		font-size: 3rem;
+		font-size: 3.8rem;
+	}
+	.content_section_service{
+		height: 270px;
+	}
+
+	.job_heading1{
+		font-size: 2rem;
 	}
 }
 
@@ -2375,7 +2425,7 @@ padding-left:90px;
     }
 
 	.herotitle{
-		font-size: 1.8rem;
+		font-size: 2rem;
 	}
     
     .feature-card, .module-card {
@@ -2486,5 +2536,13 @@ padding-left:90px;
 		font-size: 2.5rem; /* Adjust text size for mobile */
 		padding: 0 15px; /* Add some padding for better readability */
 		line-height: 90%;
+	}
+
+	.content_section_service{
+		height: fit-content;
+	}
+
+	.job_heading1{
+		font-size: 1.5rem;
 	}
 }

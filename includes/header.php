@@ -22,7 +22,7 @@
             </button>
             <!-- Pages -->
             <div class="collapse navbar-collapse pl-1 pl-lg-0" id="navbarSupportedContent" title="Web Designing and Software Development Company Sri Lanka - Menu">
-               <ul class="navbar-nav" id="header_navigation_ul" title="Web Designing and Software Development Company Sri Lanka - Menu">
+               <ul class="navbar-nav py-3 py-lg-0" id="header_navigation_ul" title="Web Designing and Software Development Company Sri Lanka - Menu">
                   <!-- Home -->
                   <li class="nav-item" title="Web Designing Company in Sri Lanka">
                      <a class="nav-link" href="index.php" title="Web Designing and Software Development Company in Sri Lanka">Home</a>

@@ -29,21 +29,21 @@
 
    <!-- Introduction -->
    <div class="container" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Introduction">
-      <div class="row px-2 px-md-0" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Introduction">
+      <div class="row px-2 px-md-0 py-3 mt-4 mt-lg-0" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Introduction">
          <!-- Column 01 -->
          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Introduction Text">
             <!-- Logo -->
             <img id="about_logo" class="mb-2" src="images/about/creative2-web-design-and-software-developing-company-in-sri-lanka-logo.jpg" class="img-fluid wow fadeIn" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Logo" alt="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Logo" />
             <!-- Paragraph -->
-            <p class="about_paragraph wow fadeIn text-left" id="about_paragraph1" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Introduction - Paragraph">
+            <p class="about_section_paragraph wow fadeIn text-left" id="about_paragraph1" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Introduction - Paragraph">
                Creative-2 is a Sri Lanka-based web design and IT solutions company focused on helping small and medium-sized businesses grow their online presence. We provide tailored, effective, and affordable web solutions that meet real business needs.
             </p>
             <!-- Paragraph -->
-            <p class="about_paragraph wow fadeIn text-left" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Introduction - Paragraph">
+            <p class="about_section_paragraph wow fadeIn text-left" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Introduction - Paragraph">
                Our mission has always been to offer reliable digital services that deliver results. We understand the challenges many businesses face and take the time to learn about each client to create the right solution for them.
             </p>
             <!-- Paragraph -->
-            <p class="about_paragraph wow fadeIn text-left" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Introduction - Paragraph">
+            <p class="about_section_paragraph wow fadeIn text-left" title="About Creative-2 : Web Designing and Software Company in Colombo, Kottawa, Sri Lanka - Introduction - Paragraph">
                At Creative-2, your success is our priority. We help you share key information, connect with your audience, and build strong communication pathways because your web solution is your next step to success.
             </p>
          </div>

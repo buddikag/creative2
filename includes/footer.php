@@ -61,14 +61,14 @@
 </div>
 
 <!-- Footer 02 -->
-<div class="container-fluid" id="footer2" title="Web Designing and Software Development Company in Sri Lanka">
+<div class="container-fluid py-3" id="footer2" title="Web Designing and Software Development Company in Sri Lanka">
    <div class="row" title="Web Designing and Software Development Company in Sri Lanka">
    	  <!-- Column 01 -->
-      <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12" id="copyrights" title="Web Designing and Software Development Company in Sri Lanka - Copyrights">
+      <div class="col-xl-4 col-lg-4 col-md-5 col-sm-12 col-12 order-3 order-md-1 order-xl-1 " id="" title="Web Designing and Software Development Company in Sri Lanka - Copyrights">
          Creative-2 © All Rights Reserved 
       </div>
       <!-- Column 02 -->
-      <div class="col-xl-4 col-lg-4 col-md-4 col-sm-8 col-8" id="footer2_menu" title="Web Designing and Software Development Company in Sri Lanka - Menu">
+      <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 order-1 order-md-2 order-xl-2 text-left text-md-center text-xl-center" id="" title="Web Designing and Software Development Company in Sri Lanka - Menu">
         <!-- * -->
          <a class="text-white" href="our_products.php" class="link" title="Web Designing and Software Development Company in Sri Lanka - Products">Products</a> | 
          <!-- * -->
@@ -77,7 +77,7 @@
          <a class="text-white" href="clients.php" class="link" title="Web Designing and Software Development Company in Sri Lanka - Clients">Clients</a>
       </div>
       <!-- Column 03 -->
-      <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4" title="Web Designing and Software Development Company in Sri Lanka - Social Media">
+      <div class="col-xl-4 col-lg-4 col-md-3 col-sm-12 col-12 order-1 order-md-3 order-xl-3 text-left text-md-right text-xl-right my-3 my-md-0 my-xl-0" title="Web Designing and Software Development Company in Sri Lanka - Social Media">
       	 <!-- LinkedIn -->
          <a href="https://www.linkedin.com/company/creative-2/" class="link" id="footer_fb_icon_a" target="_blank" title="Creative-2 Web Designing and Software Development Company in Sri Lanka - LinkedIn Page"> <i id="footer_fb_icon" class="fab fa-linkedin"></i> </a>
          <!-- Facebook -->
