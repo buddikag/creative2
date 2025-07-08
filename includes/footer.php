@@ -6,7 +6,7 @@
       	 <!-- Title -->
          <div class="footer_title mb-4" title="Creative-2 Web Designing and Software Development Company in Sri Lanka">About Us</div>
          <!-- Text -->
-         <p class="footer_text text-left" title="Creative-2 Web Designing and Software Development Company in Sri Lanka">Creative-2 is a Sri Lanka web Designing and web based IT solution prioviding company dedicated to helping all & medium size business to launch & prosper online. 
+         <p class="footer_text text-left" title="Creative-2 Web Designing and Software Development Company in Sri Lanka">Creative-2 is a Sri Lankan web design and IT solutions company dedicated to helping small and medium-sized businesses launch and grow online.
          </p>
       </div>
       <!-- Column 02 -->
