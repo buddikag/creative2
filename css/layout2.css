@@ -2,6 +2,23 @@ html {
   scroll-behavior: smooth;
 }
 
+
+/* Color Variables */
+:root {
+  --primary-color: rgb(27, 1, 65);
+  --primary-light: rgb(54, 2, 130);
+  --primary-lighter: rgb(81, 3, 195);
+  --primary-dark: rgb(20, 1, 48);
+  --primary-darker: rgb(13, 0, 32);
+  --accent-color: rgb(255, 102, 0);
+  --accent-light: rgb(255, 153, 51);
+  --accent-dark: rgb(204, 82, 0);
+  --text-light: rgb(255, 255, 255);
+  --text-dark: rgb(33, 37, 41);
+  --background-light: rgb(255, 255, 255);
+  --background-dark: rgb(233, 236, 239);
+}
+
 .h1,
 .h2,
 .h3,
@@ -1520,80 +1537,116 @@ input[type="number"]::-ms-outer-spin-button {
 .ecommerce_software_features_background {
   background-color: var(--background-light);
 }
-#hotel_management_software_colour_box1 {
-  background-color: #e6e6e6;
-}
+
 .faq_features_box {
   padding-bottom: 40px;
   padding-top: 40px;
 }
-#hotel_management_software_colour_box2 {
+
+#hotel_management_software_colour_box1 {
+  
   background-color: #e6e6e6;
+  color: var(--text-dark);
+}
+
+#hotel_management_software_colour_box2 {
+  color: rgba(255, 255, 255, 0.837) !important;
+  background-color: var(--primary-dark);
+
 }
 
 #hotel_management_software_colour_box3 {
+  
   background-color: #e6e6e6;
-}
-
-#hotel_management_software_colour_box6 {
-  background-color: #e6e6e6;
+  color: var(--text-dark);
 }
 
 #hotel_management_software_colour_box4 {
-  background-color: #e6e6e6;
+  color: rgba(255, 255, 255, 0.837) !important;
+  background-color: var(--primary-dark);
+
 }
 
 #hotel_management_software_colour_box5 {
+  
   background-color: #e6e6e6;
+  color: var(--text-dark);
 }
 
+#hotel_management_software_colour_box6 {
+  color: rgba(255, 255, 255, 0.837) !important;
+  background-color: var(--primary-dark);
+
+}
+
+
 #hotel_management_software_colour_box7 {
+  
   background-color: #e6e6e6;
+  color: var(--text-dark);
 }
 
 #hotel_management_software_colour_box8 {
-  background-color: #e6e6e6;
+  color: rgba(255, 255, 255, 0.837) !important;
+  background-color: var(--primary-dark);
+
 }
 #hotel_management_software_colour_box9 {
+  
   background-color: #e6e6e6;
+  color: var(--text-dark);
 }
 #hotel_management_software_colour_box10 {
-  background-color: #e6e6e6;
+  color: rgba(255, 255, 255, 0.837) !important;
+  background-color: var(--primary-dark);
+
 }
 #hotel_management_software_colour_box11 {
+ 
   background-color: #e6e6e6;
+  color: var(--text-dark);
 }
 #hotel_management_software_colour_box12 {
-  background-color: #e6e6e6;
+  color: rgba(255, 255, 255, 0.837) !important;
+  background-color: var(--primary-dark);
+
 }
 #hotel_management_software_colour_box13 {
-  background-color: #fb9855;
+ 
+  background-color: #e6e6e6;
+  color: var(--text-dark);
 }
 #hotel_management_software_colour_box14 {
-  background-color: #e84c3d;
+  color: rgba(255, 255, 255, 0.837) !important;
+  background-color: var(--primary-dark);
+
 }
 #hotel_management_software_colour_box15 {
-  background-color: #d55401;
+  
+  background-color: #e6e6e6;
+  color: var(--text-dark);
 }
 #hotel_management_software_colour_box16 {
-  background-color: #c1392b;
+  color: rgba(255, 255, 255, 0.837) !important;
+  background-color: var(--primary-dark);
+
 }
 
 .hotel_management_software_colour_box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 15px;
   font-family: "Open Sans", sans-serif;
-  color: #333;
   font-size: 1.4em;
   margin-top: 25px;
-  text-align: center;
-  padding-top: 25px;
-  padding-bottom: 30px;
   border-radius: 4px;
   height: 200px;
   margin-left: auto;
   margin-right: auto;
-  display: block;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding: 30px;
 }
 
 .products_single_page_slogan {
@@ -1730,7 +1783,7 @@ input[type="number"]::-ms-outer-spin-button {
 }
 .tag_clouds {
   font-family: "Open Sans", sans-serif;
-  border-radius: 4px;
+  border-radius: 1000px;
   border-width: 1px;
   border-style: solid;
   cursor: default !important;
@@ -1746,26 +1799,28 @@ input[type="number"]::-ms-outer-spin-button {
   margin-bottom: 50px;
 }
 #modules_title {
-  margin-top: 0px !important;
-  margin-bottom: 30px !important;
+  margin-top: 10px !important;
+  margin-bottom: 40px !important;
 }
 #module_type {
-  color: white;
+  color: rgba(255, 255, 255, 0.837);
   font-family: "Open Sans", sans-serif;
-  font-size: 1.75em;
+  font-size: 1.5em;
   font-weight: 100;
-  padding-top: 6px;
-  padding-bottom: 6px;
-  padding-left: 2%;
 }
 .module_type1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 15px;
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
-  background-color: #7b8d9a;
+  color: rgba(255, 255, 255, 0.437);
+  background-color: var(--primary-dark);
 }
 
 #module_type_icon {
-  font-size: 0.9em;
+  font-size: 1.2em;
 }
 
 .module_type2 {
@@ -1777,6 +1832,10 @@ input[type="number"]::-ms-outer-spin-button {
 #last_item {
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
+}
+
+.modules_box {
+  margin-bottom: 60px;
 }
 
 .module_subsets_row {
@@ -1793,7 +1852,7 @@ input[type="number"]::-ms-outer-spin-button {
 }
 
 .dropdown-menu {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.3);
   min-width: 200px;
   padding: 20px;
   margin-inline: auto;
@@ -1806,26 +1865,26 @@ input[type="number"]::-ms-outer-spin-button {
 }
 
 .view_details_button {
-  background-color: var(--accent-color);
-  color: white;
-  border: none;
+  background-color: transparent;
+  border: 1px solid var(--text-dark);
+  color: var(--text-dark);
   border-radius: 1000px;
   outline: none;
   padding: 6px 15px;
   font-size: 0.8em;
   margin-left: auto;
   cursor: pointer;
+  transition: all 0.2s ease-in-out;
 }
 
 .view_details_button:hover {
+  background-color: rgba(0, 0, 0, 0.05);
 }
 
 #products_tag_clouds_title {
   margin-top: 40px;
 }
-.modules_box {
-  margin-bottom: 40px;
-}
+
 .reports_button {
   background-color: #cc0000 !important;
   /* background-color: #191615 !important; */
@@ -2149,24 +2208,6 @@ input[type="number"]::-ms-outer-spin-button {
 .webdesign_call {
   transform: rotate(98deg);
   margin-right: 1%;
-}
-
-/* Add this CSS to your stylesheet */
-
-/* Color Variables */
-:root {
-  --primary-color: rgb(27, 1, 65);
-  --primary-light: rgb(54, 2, 130);
-  --primary-lighter: rgb(81, 3, 195);
-  --primary-dark: rgb(20, 1, 48);
-  --primary-darker: rgb(13, 0, 32);
-  --accent-color: rgb(255, 102, 0);
-  --accent-light: rgb(255, 153, 51);
-  --accent-dark: rgb(204, 82, 0);
-  --text-light: rgb(255, 255, 255);
-  --text-dark: rgb(33, 37, 41);
-  --background-light: rgb(255, 255, 255);
-  --background-dark: rgb(233, 236, 239);
 }
 
 /* Updated Header Styles */

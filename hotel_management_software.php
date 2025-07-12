@@ -61,14 +61,13 @@
                   <p class="mb-0">www.hopepms.com</p>
                   <div id="products_contact" class="mt-2 wow fadeIn" title="Hotel Management Software In Sri Lanka - Contact Details">
                      <p class="mb-0">FREE Demo : 0777 514 979</p>
-                     <div class="d-flex flex-column flex-md-row">
+                     <div class="d-flex flex-column flex-lg-row">
                         <a href="http://www.hopepms.com" style="color: #dee2e6;">www.hopepms.com</a>
-                        <span class="d-none d-md-block">&nbsp;|&nbsp;</span>
+                        <span class="d-none d-lg-block">&nbsp;|&nbsp;</span>
                         <p class="mb-0">info@creative-2.com</p>
                      </div>
                   </div>
                </div>
-
             </div>
          </div>
       </div>
@@ -77,171 +76,134 @@
    <!-- Modules -->
    <div class="container" title="Hotel Management Software System in Sri Lanka - Modules">
       <!-- Row 01 -->
-      <div class="row" title="Hotel Management Software System in Sri Lanka - Modules">
+      <div class="row pt-4 pb-3" title="Hotel Management Software System in Sri Lanka - Modules">
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka In Sri Lanka - Modules - Self Check-out">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka In Sri Lanka - Modules - Self Check-out">
             <a href="#front_office" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Front Office">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box1" title="Hotel Management Software System in Sri Lanka - Modules - Self Check-out" title="Hotel Management Software In Sri Lanka - Modules - Front Office"> <i class=" fas fa-bed hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box1" title="Hotel Management Software System in Sri Lanka - Modules - Self Check-out" title="Hotel Management Software In Sri Lanka - Modules - Front Office"> <i class=" fas fa-bed" aria-hidden="true"></i>
                   Front Office
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Back Office">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Back Office">
             <a href="#back_office" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Back Office">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box2" title=" Hotel Management Software System in Sri Lanka - Modules - Back Office"> <i class="fa fa-folder-open hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box2" title=" Hotel Management Software System in Sri Lanka - Modules - Back Office"> <i class="fa fa-folder-open" aria-hidden="true"></i>
                   Back Office
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Booking Engine">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Booking Engine">
             <a href="#booking_engine" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Booking Engine">
-               <div class="hotel_management_software_colour_box" title="Hotel Management Software System in Sri Lanka - Modules - Booking Engine" id="hotel_management_software_colour_box3"><i class="fas fa-hand-pointer hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box3" title="Hotel Management Software System in Sri Lanka - Modules - Booking Engine" id="hotel_management_software_colour_box3"><i class="fas fa-hand-pointer" aria-hidden="true"></i>
                   Booking Engine
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Channel Manager">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Channel Manager">
             <a href="free-channel-manager-srilanka.php" target="_blank" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Channel Manager">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box4" title="Hotel Management Software System in Sri Lanka - Modules - Channel Manager"> <i class="fas fa-sitemap hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box4" title="Hotel Management Software System in Sri Lanka - Modules - Channel Manager"> <i class="fas fa-sitemap" aria-hidden="true"></i>
                   Channel Manager
                </div>
             </a>
          </div>
-      </div>
-      <!-- Row 02 -->
-      <div class="row" title="Hotel Management Software System in Sri Lanka - Modules">
+
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka In Sri Lanka - Modules - Self Check-out">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka In Sri Lanka - Modules - Self Check-out">
             <a href="#self_checkout" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Self Check-out">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box5" title="Hotel Management Software System in Sri Lanka - Modules - Self Check-out" title="Hotel Management Software In Sri Lanka - Modules - Self Check-out"> <i class=" fas fa-shopping-cart hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box5" title="Hotel Management Software System in Sri Lanka - Modules - Self Check-out" title="Hotel Management Software In Sri Lanka - Modules - Self Check-out"> <i class=" fas fa-shopping-cart" aria-hidden="true"></i>
                   Self Check-out
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Kitchen">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Kitchen">
             <a href="#kitchen" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Kitchen">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box6" title=" Hotel Management Software System in Sri Lanka - Modules - Kitchen"> <i class="fa fa-utensils hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box6" title=" Hotel Management Software System in Sri Lanka - Modules - Kitchen"> <i class="fa fa-utensils" aria-hidden="true"></i>
                   Kitchen
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Agent Booking Diary">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Agent Booking Diary">
             <a href="#agent_booking_diary" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Agent Booking Diary">
-               <div class="hotel_management_software_colour_box" title="Hotel Management Software System in Sri Lanka - Modules - Agent Booking Diary" id="hotel_management_software_colour_box7"><i class="fas fa-book hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box7" title="Hotel Management Software System in Sri Lanka - Modules - Agent Booking Diary" id="hotel_management_software_colour_box7"><i class="fas fa-book" aria-hidden="true"></i>
                   Agent Booking Diary
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Remote KOT / BOT">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Remote KOT / BOT">
             <a href="#remote_kot_bot" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Remote KOT / BOT">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box8" title="Hotel Management Software System in Sri Lanka - Modules - Remote KOT / BOT"> <i class="fa fa-print hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box8" title="Hotel Management Software System in Sri Lanka - Modules - Remote KOT / BOT"> <i class="fa fa-print" aria-hidden="true"></i>
                   Remote KOT / BOT
                </div>
             </a>
          </div>
-      </div>
-      <!-- Row 03 -->
-      <div class="row" title="Hotel Management Software System in Sri Lanka - Modules">
+
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka In Sri Lanka - Modules - Self Check-out">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka In Sri Lanka - Modules - Self Check-out">
             <a href="#global_payment" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Global Payment">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box9" title="Hotel Management Software System in Sri Lanka - Modules - Global Payment" title="Hotel Management Software In Sri Lanka - Modules - Global Payment"> <i class=" fas fa-globe hope_page_icons" aria-hidden="true"></i> <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box9" title="Hotel Management Software System in Sri Lanka - Modules - Global Payment" title="Hotel Management Software In Sri Lanka - Modules - Global Payment"> <i class=" fas fa-globe" aria-hidden="true"></i>
                   Global Payment
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - System Admin">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - System Admin">
             <a href="#system_admin" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - System Admin">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box10" title=" Hotel Management Software System in Sri Lanka - Modules - System Admin"> <i class="fa fa-user-cog hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box10" title=" Hotel Management Software System in Sri Lanka - Modules - System Admin"> <i class="fa fa-user-cog" aria-hidden="true"></i>
                   System Admin
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Restaurant (POS)">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Restaurant (POS)">
             <a href="#restaurant" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Restaurant (POS)">
-               <div class="hotel_management_software_colour_box" title="Hotel Management Software System in Sri Lanka - Modules - Restaurant (POS)" id="hotel_management_software_colour_box11"><i class="fas fa-glass-martini-alt hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box11" title="Hotel Management Software System in Sri Lanka - Modules - Restaurant (POS)" id="hotel_management_software_colour_box11"><i class="fas fa-glass-martini-alt" aria-hidden="true"></i>
                   Restaurant (POS)
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Report">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Report">
             <a href="#report" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Report">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box12" title="Hotel Management Software System in Sri Lanka - Modules - Report"> <i class="fa fa-file-alt hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box12" title="Hotel Management Software System in Sri Lanka - Modules - Report"> <i class="fa fa-file-alt" aria-hidden="true"></i>
                   Report
                </div>
             </a>
          </div>
-      </div>
-      <!-- Row 04 -->
-      <div class="row" title="Hotel Management Software System In Sri Lanka - Modules">
+
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Housekeeping">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Housekeeping">
             <a href="#housekeeping" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Housekeeping">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box13" title="Hotel Management Software System in Sri Lanka - Modules - Housekeeping"> <i class="fa fa-broom hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box13" title="Hotel Management Software System in Sri Lanka - Modules - Housekeeping"> <i class="fa fa-broom" aria-hidden="true"></i>
                   Housekeeping
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Inventory Control">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Inventory Control">
             <a href="#inventory" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Inventory Control">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box14" title="Hotel Management Software System in Sri Lanka - Modules - Inventory Control"> <i class="fas fa-box hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box14" title="Hotel Management Software System in Sri Lanka - Modules - Inventory Control"> <i class="fas fa-box" aria-hidden="true"></i>
                   Inventory Control
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Finance">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Finance">
             <a href="#finance" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Finance">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box15" title="Hotel Management Software System in Sri Lanka - Modules - Finance"> <i class="fas fa-credit-card hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box15" title="Hotel Management Software System in Sri Lanka - Modules - Finance"> <i class="fas fa-credit-card" aria-hidden="true"></i>
                   Finance
                </div>
             </a>
          </div>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Payroll System">
+         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Payroll System">
             <a href="#payroll_system" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Payroll System">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box16" title="Hotel Management Software System in Sri Lanka - Modules - Payroll System"> <i class="fa fa-money-bill-alt hope_page_icons" aria-hidden="true"></i>
-                  <br class="mobile_br">
-                  <br class="mobile_br">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box16" title="Hotel Management Software System in Sri Lanka - Modules - Payroll System"> <i class="fa fa-money-bill-alt" aria-hidden="true"></i>
                   Payroll System
                </div>
             </a>
@@ -251,7 +213,7 @@
    </div>
 
    <!-- Process -->
-   <div class="container px-4" title="Hotel Management Software System in Sri Lanka - Free Channel Manager">
+   <div class="container px-4 px-lg-3" title="Hotel Management Software System in Sri Lanka - Free Channel Manager">
       <div class="row" title="Hotel Management Software System in Sri Lanka - Free Channel Manager">
          <!-- Column 01 -->
          <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12" title="Hotel Management Software System in Sri Lanka - Free Channel Manager">
@@ -375,7 +337,7 @@
          </div>
          <!-- Module -->
          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 modules_box wow fadeInUp" title="Hotel Management Management Software System in Sri Lanka - Module and Features" id="back_office">
-            <div class="module_type2" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Back Office (Rate Management)">
+            <div class="module_type1" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Back Office (Rate Management)">
                <i class="fas fa-folder-open module_type_icon"></i> Back Office (Rate Management)
             </div>
             <!-- * -->
@@ -448,7 +410,7 @@
       <div class="row" title="Hotel Management Management Software System in Sri Lanka - Module and Features">
          <!-- Module -->
          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 modules_box wow fadeInUp" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Online Booking Engine" id="booking_engine">
-            <div class="module_type2" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Online Booking Engine">
+            <div class="module_type1" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Online Booking Engine">
                <i class="fas fa-hand-pointer module_type_icon"></i> Online Booking Engine
             </div>
             <!-- * -->
@@ -503,7 +465,7 @@
          </div>
          <!-- Module -->
          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 modules_box wow fadeInUp" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Trojan Print" id="self_checkout">
-            <div class="module_type2" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Trojan Print">
+            <div class="module_type1" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Trojan Print">
                <i class="fas fa-print module_type_icon"></i> Trojan Print
             </div>
             <!-- * -->
@@ -522,7 +484,7 @@
       <div class="row" title="Hotel Management Management Software System in Sri Lanka - Module and Features">
          <!-- Module -->
          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 modules_box wow fadeInUp" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Agent Booking Diary" id="agent_booking_diary">
-            <div class="module_type2" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Agent Booking Diary">
+            <div class="module_type1" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Agent Booking Diary">
                <i class="fas fa-book module_type_icon"></i> Agent Booking Diary
             </div>
             <!-- * -->
@@ -557,7 +519,7 @@
          </div>
          <!-- Module -->
          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 modules_box wow fadeInUp" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Payroll System (Optional)" id="payroll_system">
-            <div class="module_type2" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Payroll System (Optional) - Payroll System (Optional)">
+            <div class="module_type1" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Payroll System (Optional) - Payroll System (Optional)">
                <i class="fas fa-money-bill-alt module_type_icon"></i> Payroll System (Optional)
             </div>
             <!-- * -->
@@ -572,7 +534,7 @@
       <div class="row" title="Hotel Management Management Software System in Sri Lanka - Module and Features">
          <!-- Module -->
          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 modules_box wow fadeInUp" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Admin (System Administration)" id="system_admin">
-            <div class="module_type2" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Admin (System Administration)">
+            <div class="module_type1" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Admin (System Administration)">
                <i class="fas fa-user-cog module_type_icon"></i> Admin (System Administration)
             </div>
             <!-- * -->
@@ -621,7 +583,7 @@
             <div class="module_subsets_row" id="last_item" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Restaurant (POS) - Recipe management(Recipe cost calculation)">
                04. Recipe management(Recipe cost calculation)
             </div>
-            
+
             <!-- <div class="module_subsets_row empty_module_subsets_row" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Restaurant (POS)">
             </div>
             <div class="module_subsets_row empty_module_subsets_row" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Restaurant (POS)">
@@ -684,8 +646,8 @@
          </div>
          <!-- Module -->
          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 modules_box wow fadeInUp" title="Hotel Management Management Software System in Sri Lanka - Module and Features" id="housekeeping">
-            <div class="module_type2" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Housekeeping (Update room status)">
-               <i class="fas fa-broom module_type_icon"></i> Housekeeping (Update room status)
+            <div class="module_type1" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Housekeeping (Update room status)">
+               <i class="fas fa-broom module_type_icon"></i><span class="d-flex flex-column flex-lg-row">Housekeeping <span class="pl-0 pl-lg-2">(Update room status)</span></span>
             </div>
             <!-- * -->
             <div class="module_subsets_row" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Housekeeping (Update room status) - Check in">
@@ -737,7 +699,7 @@
       <div class="row" title="Hotel Management Management Software System in Sri Lanka - Module and Features">
          <!-- Module -->
          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 modules_box wow fadeInUp" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Inventory Control" id="inventory">
-            <div class="module_type2" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Inventory Control">
+            <div class="module_type1" id="module_type" title="Hotel Management Management Software System in Sri Lanka - Module and Features - Inventory Control">
                <i class="fas fa-box module_type_icon"></i> Inventory Control
             </div>
             <!-- * -->
@@ -909,25 +871,25 @@
          <div class="container-fluid" title="Hotel Management Software System in Sri Lanka - Product Related Keywords" id="tag_cloud_row">
             <div class="row" title="Hotel Management Software System in Sri Lanka - Product Related Keywords">
                <!-- * -->
-               <p class="tag_clouds col-lg-2 m-2 p-2" title="Hotel Management Software Sri Lanka - Property Management Software"> Property Management Software </p>
+               <p class="tag_clouds col-lg-2 m-2 py-2 px-3" title="Hotel Management Software Sri Lanka - Property Management Software"> Property Management Software </p>
                <!-- * -->
-               <p class="tag_clouds col-lg-2 m-2 p-2" title="Hotel Management Software Sri Lanka - Hotel Management Software"> Hotel Management Software </p>
+               <p class="tag_clouds col-lg-2 m-2 py-2 px-3" title="Hotel Management Software Sri Lanka - Hotel Management Software"> Hotel Management Software </p>
                <!-- * -->
-               <p class="tag_clouds col-lg-2 m-2 p-2" title="Hotel Management Software Sri Lanka - Online Booking Systems"> Online Booking Systems </p>
+               <p class="tag_clouds col-lg-2 m-2 py-2 px-3" title="Hotel Management Software Sri Lanka - Online Booking Systems"> Online Booking Systems </p>
                <!-- * -->
-               <p class="tag_clouds col-lg-2 m-2 p-2" title="Hotel Management Software Sri Lanka - Web Based Hotel Management"> Web Based Hotel Management </p>
+               <p class="tag_clouds col-lg-2 m-2 py-2 px-3" title="Hotel Management Software Sri Lanka - Web Based Hotel Management"> Web Based Hotel Management </p>
                <!-- * -->
-               <p class="tag_clouds col-lg-2 m-2 p-2" title="Hotel Management Software Sri Lanka - Self Checkouts for Hotels"> Self Checkouts for Hotels </p>
+               <p class="tag_clouds col-lg-2 m-2 py-2 px-3" title="Hotel Management Software Sri Lanka - Self Checkouts for Hotels"> Self Checkouts for Hotels </p>
                <!-- * -->
-               <p class="tag_clouds col-lg-2 m-2 p-2" title="Hotel Management Software Sri Lanka - Hospitality Management Softwares"> Hospitality Management Softwares </p>
+               <p class="tag_clouds col-lg-2 m-2 py-2 px-3" title="Hotel Management Software Sri Lanka - Hospitality Management Softwares"> Hospitality Management Softwares </p>
                <!-- * -->
-               <p class="tag_clouds col-lg-2 m-2 p-2" title="Hotel Management Software Sri Lanka - Sri Lankan Online Channel Manager">Sri Lankan Online Channel Manager </p>
+               <p class="tag_clouds col-lg-2 m-2 py-2 px-3" title="Hotel Management Software Sri Lanka - Sri Lankan Online Channel Manager">Sri Lankan Online Channel Manager </p>
                <!-- * -->
-               <p class="tag_clouds col-lg-2 m-2 p-2" title="Hotel Management Software Sri Lanka - Manage Hotel Reservations"> Manage Hotel Reservations </p>
+               <p class="tag_clouds col-lg-2 m-2 py-2 px-3" title="Hotel Management Software Sri Lanka - Manage Hotel Reservations"> Manage Hotel Reservations </p>
                <!-- * -->
-               <p class="tag_clouds col-lg-2 m-2 p-2" title="Hotel Management Software Sri Lanka - Front Office / Frontdesk Softwares"> Front Office / Frontdesk Softwares </p>
+               <p class="tag_clouds col-lg-2 m-2 py-2 px-3" title="Hotel Management Software Sri Lanka - Front Office / Frontdesk Softwares"> Front Office / Frontdesk Softwares </p>
                <!-- * -->
-               <p class="tag_clouds col-lg-2 m-2 p-2" title="Hotel Management Software Sri Lanka - Hotel and Restaurant Software"> Hotel and Restaurant Software </p>
+               <p class="tag_clouds col-lg-2 m-2 py-2 px-3" title="Hotel Management Software Sri Lanka - Hotel and Restaurant Software"> Hotel and Restaurant Software </p>
             </div>
          </div>
       </div>
