@@ -75,48 +75,48 @@
       </div>
    </div>
 
+
    <!-- TRAINEE UI DESIGNER -->
    <div class="container py-2" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities">
       <div class="row" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities">
-         <!-- Column 1 -->
-         <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 job_description" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Job Description">
+         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 job_description" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Job Description">
             <!-- Title -->
             <div class="wow fadeIn job_heading1" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Job Position">
                <a name="trainee-web-designer"></a>
                <span title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Job Position"><span class="subtitle_type1_word2">Trainee</span> UI Designers</span>
             </div>
-            <!-- Requirments -->
-            <div class="jobs_subtitle wow fadeIn" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Requirments"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
-            <ul class="jobs_ul wow fadeIn" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Requirments">
-               <li>1) Average Knowledge of HTML5, CSS3 & jQuery</li>
-               <li>2) Average Knowledge & Skills of Adobe Photoshop & Graphic Designing</li>
-               <li>3) Average Knowledge of Bootstrap Framework & Responsive Web Designing</li>
-               <li>4) Average Knowledge of WordPress</li>
-            </ul>
-            <!-- Bottom -->
-            <div class="row" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities">
-               <!-- Email -->
-               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                  <div class="jobs_subtitle wow fadeIn" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
-                  <ul class="jobs_ul wow fadeIn" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Send CV">
-                     <li>* To : info@creative-2.com</li>
-                     <li>* Subject : "Trainee Web Designer"</li>
+            <div class="row">
+               <div class="col-lg-8 col-md-12 col-12">
+                  <!-- Requirments -->
+                  <div class="jobs_subtitle wow fadeIn" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Requirments"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
+                  <ul class="jobs_ul wow fadeIn" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Requirments">
+                     <li>1) Average Knowledge of HTML5, CSS3 & jQuery</li>
+                     <li>2) Average Knowledge & Skills of Adobe Photoshop & Graphic Designing</li>
+                     <li>3) Average Knowledge of Bootstrap Framework & Responsive Web Designing</li>
+                     <li>4) Average Knowledge of WordPress</li>
                   </ul>
                </div>
-               <!-- Period -->
-               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Training Period">
-                  <div class="jobs_subtitle wow fadeIn" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Training Period"> <i class="fas fa-clock career_icon"></i> Training Period</div>
-                  <ul class="jobs_ul" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Training Period">
-                     <li>06 Months</li>
-                  </ul>
+               <div class="col-lg-4 col-md-12 col-12">
+                  <!-- Bottom -->
+                  <div class="row" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities">
+                     <!-- Period -->
+                     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Training Period">
+                        <div class="jobs_subtitle wow fadeIn" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Training Period"> <i class="fas fa-clock career_icon"></i> Training Period</div>
+                        <ul class="jobs_ul" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Training Period">
+                           <li>06 Months</li>
+                        </ul>
+                     </div>
+                     <!-- Email -->
+                     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12">
+                        <div class="jobs_subtitle wow fadeIn" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
+                        <ul class="jobs_ul wow fadeIn" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Send CV">
+                           <li>* To : info@creative-2.com</li>
+                           <li>* Subject : "Trainee Web Designer"</li>
+                        </ul>
+                     </div>
+                  </div>
                </div>
             </div>
-         </div>
-
-         <!-- Column 2 -->
-         <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Image">
-            <!-- Image -->
-            <img src="images/careers/web-design-software-development-sri-lanka-vacancies-job-opportunities.jpg" class="img-fluid job_position_images wow fadeInRight" alt="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Image" title="Trainee UI Designer or Web Designer Jobs / Careers / Opportunities - Image" />
          </div>
       </div>
    </div>
@@ -124,44 +124,42 @@
    <!-- TRAINEE PHP DEVELOPERS -->
    <div class="container py-2" title="Trainee PHP Developers Jobs / Careers / Opportunities">
       <div class="row" title="Trainee PHP Developers Jobs / Careers / Opportunities">
-         <!-- Column 1 -->
-         <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12" title="Trainee PHP Developers Jobs / Careers / Opportunities - Image">
-            <!-- Image -->
-            <img src="images/careers/web-design-software-development-sri-lanka-vacancies-job-opportunities-php.jpg" class="img-fluid job_position_images wow fadeInLeft" title="Trainee PHP Developers Jobs / Careers / Opportunities - Image" alt="Trainee PHP Developers Jobs / Careers / Opportunities - Image" />
-         </div>
-         <!-- Column 2 (Space) -->
-         <div class="col-xl-1 col-lg-1 col-md-12 col-sm-12 col-12 job_description" title="Trainee PHP Developers Jobs / Careers / Opportunities"></div>
-         <!-- Column 3 -->
-         <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12 job_description" title="Trainee PHP Developers Jobs / Careers / Opportunities - Job Description">
+         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 job_description" title="Trainee PHP Developers Jobs / Careers / Opportunities - Job Description">
             <!-- Title -->
             <div class="wow fadeIn job_heading1" title="Trainee PHP Developers Jobs / Careers / Opportunities - Job Title">
                <a name="trainee-php-developer"></a>
-               <span  title="Trainee PHP Developers Jobs / Careers / Opportunities - Job Title"><span class="subtitle_type1_word2">Trainee </span>PHP Developers</span>
+               <span title="Trainee PHP Developers Jobs / Careers / Opportunities - Job Title"><span class="subtitle_type1_word2">Trainee </span>PHP Developers</span>
             </div>
-            <!-- Requirments -->
-            <div class="jobs_subtitle wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
-            <ul class="jobs_ul wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Requirements">
-               <li>1) Average Knowledge of PHP and MYSQL</li>
-               <li>2) Average Knowledge of HTML, CSS, JavaScript</li>
-               <li>3) Knowledge of JavaScript</li>
-               <li>4) Knowledge of WordPress, Joomla</li>
-            </ul>
-            <!-- Bottom -->
-            <div class="row" title="Trainee PHP Developers Jobs / Careers / Opportunities">
-               <!-- Email -->
-               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" title="Trainee PHP Developers Jobs / Careers / Opportunities - Send CV">
-                  <div class="jobs_subtitle wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
-                  <ul class="jobs_ul wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Send CV">
-                     <li>* To : info@creative-2.com</li>
-                     <li>* Subject : "Trainee PHP Developer"</li>
+            <div class="row">
+               <div class="col-lg-8 col-md-12 col-12">
+                  <!-- Requirments -->
+                  <div class="jobs_subtitle wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
+                  <ul class="jobs_ul wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Requirements">
+                     <li>1) Average Knowledge of PHP and MYSQL</li>
+                     <li>2) Average Knowledge of HTML, CSS, JavaScript</li>
+                     <li>3) Knowledge of JavaScript</li>
+                     <li>4) Knowledge of WordPress, Joomla</li>
                   </ul>
                </div>
-               <!-- Period -->
-               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" title="Trainee PHP Developers Jobs / Careers / Opportunities - Training Period">
-                  <div class="jobs_subtitle wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Training Period"> <i class="fas fa-clock career_icon"></i> Training Period</div>
-                  <ul class="jobs_ul wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Training Period">
-                     <li>06 Months</li>
-                  </ul>
+               <div class="col-lg-4 col-md-12 col-12">
+                  <!-- Bottom -->
+                  <div class="row" title="Trainee PHP Developers Jobs / Careers / Opportunities">
+                     <!-- Period -->
+                     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12" title="Trainee PHP Developers Jobs / Careers / Opportunities - Training Period">
+                        <div class="jobs_subtitle wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Training Period"> <i class="fas fa-clock career_icon"></i> Training Period</div>
+                        <ul class="jobs_ul wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Training Period">
+                           <li>06 Months</li>
+                        </ul>
+                     </div>
+                     <!-- Email -->
+                     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12" title="Trainee PHP Developers Jobs / Careers / Opportunities - Send CV">
+                        <div class="jobs_subtitle wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
+                        <ul class="jobs_ul wow fadeIn" title="Trainee PHP Developers Jobs / Careers / Opportunities - Send CV">
+                           <li>* To : info@creative-2.com</li>
+                           <li>* Subject : "Trainee PHP Developer"</li>
+                        </ul>
+                     </div>
+                  </div>
                </div>
             </div>
          </div>
@@ -171,44 +169,44 @@
    <!-- TRAINEE JAVA DEVELOPER -->
    <div class="container py-2" title="Trainee JAVA Developer Jobs / Careers / Opportunities">
       <div class="row" title="Trainee JAVA Developer Jobs / Careers / Opportunities">
-         <!-- Column 1 -->
-         <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 job_description" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Job Description">
+         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 job_description" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Job Description">
             <!-- Title -->
             <div class="wow fadeIn job_heading1" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Job Title">
                <a name="trainee-java-developer"></a>
                <span title="Trainee JAVA Developer Jobs / Careers / Opportunities - Job Title"><span class="subtitle_type1_word2">Trainee </span>JAVA Developer</span>
             </div>
-            <!-- Requirments -->
-            <div class="jobs_subtitle wow fadeIn" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
-            <ul class="jobs_ul wow fadeIn">
-               <li>1) Average Knowledge of JAVA Servlet and MYSQL</li>
-               <li>2) Average Knowledge of HTML, CSS, JavaScript</li>
-               <li>3) Knowledge of Jquery</li>
-               <li>4) Knowledge of Hibernate </li>
-            </ul>
-            <!-- Bottom -->
-               <div class="row">
-                  <!-- Email -->
-                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Send CV">
-                     <div class="jobs_subtitle wow fadeIn" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
-                     <ul class="jobs_ul wow fadeIn" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Send CV">
-                        <li>* To : info@creative-2.com</li>
-                        <li>* Subject : "Trainee JAVA Developer"</li>
-                     </ul>
-                  </div>
-                  <!-- Period -->
-                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Training Period">
-                     <div class="jobs_subtitle wow fadeIn" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Training Period"> <i class="fas fa-clock career_icon"></i> Training Period</div>
-                     <ul class="jobs_ul wow fadeIn" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Training Period">
-                        <li>06 Months</li>
-                     </ul>
+            <div class="row">
+               <div class="col-lg-8 col-md-12 col-12">
+                  <!-- Requirments -->
+                  <div class="jobs_subtitle wow fadeIn" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
+                  <ul class="jobs_ul wow fadeIn">
+                     <li>1) Average Knowledge of JAVA Servlet and MYSQL</li>
+                     <li>2) Average Knowledge of HTML, CSS, JavaScript</li>
+                     <li>3) Knowledge of Jquery</li>
+                     <li>4) Knowledge of Hibernate </li>
+                  </ul>
+               </div>
+               <div class="col-lg-4 col-md-12 col-12">
+                  <!-- Bottom -->
+                  <div class="row">
+                     <!-- Period -->
+                     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Training Period">
+                        <div class="jobs_subtitle wow fadeIn" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Training Period"> <i class="fas fa-clock career_icon"></i> Training Period</div>
+                        <ul class="jobs_ul wow fadeIn" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Training Period">
+                           <li>06 Months</li>
+                        </ul>
+                     </div>
+                     <!-- Email -->
+                     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Send CV">
+                        <div class="jobs_subtitle wow fadeIn" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
+                        <ul class="jobs_ul wow fadeIn" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Send CV">
+                           <li>* To : info@creative-2.com</li>
+                           <li>* Subject : "Trainee JAVA Developer"</li>
+                        </ul>
+                     </div>
                   </div>
                </div>
-         </div>
-         <!-- Column 2 -->
-         <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Image">
-            <!-- Image -->
-            <img src="images/careers/web-design-software-development-sri-lanka-vacancies-job-opportunities-java.jpg" class="img-fluid job_position_images wow fadeInRight" title="Trainee JAVA Developer Jobs / Careers / Opportunities - Image" alt="Trainee JAVA Developer Jobs / Careers / Opportunities - Image" />
+            </div>
          </div>
       </div>
    </div>
@@ -216,46 +214,44 @@
    <!-- TRAINEE MARKETING EXECUTIVE -->
    <div class="container py-2" title="Trainee Marketing Executive Jobs / Careers / Opportunities">
       <div class="row" title="Trainee Marketing Executive Jobs / Careers / Opportunities">
-         <!-- Column 1 -->
-         <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Image">
-            <!-- Image -->
-            <img src="images/careers/web-design-software-development-sri-lanka-vacancies-job-opportunities-marketing-executive.jpg" class="img-fluid job_position_images wow fadeInLeft" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Image" alt="Trainee Marketing Executive Jobs / Careers / Opportunities - Image" />
-         </div>
-         <!-- Column 2 (Space) -->
-         <div class="col-xl-1 col-lg-1 col-md-12 col-sm-12 col-12 job_description" title="Trainee Marketing Executive Jobs / Careers / Opportunities"></div>
-         <!-- Column 3 -->
-         <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12 job_description" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Job Description">
+         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 job_description" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Job Description">
             <!-- Title -->
             <div class="wow fadeIn job_heading1" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Job Title">
                <a name="trainee-marketing-executive"></a>
                <span title="Trainee Marketing Executive Jobs / Careers / Opportunities - Job Title"><span class="subtitle_type1_word2">Trainee </span>Marketing Executive</span>
             </div>
-            <!-- Requirements -->
-            <div class="jobs_subtitle wow fadeIn" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
-            <ul class="jobs_ul wow fadeIn" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Requirements">
-               <li>1) Must be good in communication both Sinhala and English</li>
-               <li>2) Age : Between 18-25 Years</li>
-               <li>3) Job Type : Full Time / Part Time</li>
-               <li>4) Knowledge of WordPress, Joomla</li>
-            </ul>
-            <!-- Bottom -->
-               <div class="row" title="Trainee Marketing Executive Jobs / Careers / Opportunities">
-                  <!-- Email -->
-                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
-                     <div class="jobs_subtitle wow fadeIn" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
-                     <ul class="jobs_ul wow fadeIn" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Send CV">
-                        <li>* To : info@creative-2.com</li>
-                        <li>* Subject : "Trainee Marketing Executive"</li>
-                     </ul>
-                  </div>
-                  <!-- Period -->
-                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Training Period">
-                     <div class="jobs_subtitle wow fadeIn" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Training Period"> <i class="fas fa-clock career_icon"></i> Training Period</div>
-                     <ul class="jobs_ul wow fadeIn">
-                        <li>06 Months</li>
-                     </ul>
+            <div class="row">
+               <div class="col-lg-8 col-md-12 col-12">
+                  <!-- Requirements -->
+                  <div class="jobs_subtitle wow fadeIn" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
+                  <ul class="jobs_ul wow fadeIn" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Requirements">
+                     <li>1) Must be good in communication both Sinhala and English</li>
+                     <li>2) Age : Between 18-25 Years</li>
+                     <li>3) Job Type : Full Time / Part Time</li>
+                     <li>4) Knowledge of WordPress, Joomla</li>
+                  </ul>
+               </div>
+               <div class="col-lg-4 col-md-12 col-12">
+                  <!-- Bottom -->
+                  <div class="row" title="Trainee Marketing Executive Jobs / Careers / Opportunities">
+                     <!-- Period -->
+                     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Training Period">
+                        <div class="jobs_subtitle wow fadeIn" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Training Period"> <i class="fas fa-clock career_icon"></i> Training Period</div>
+                        <ul class="jobs_ul wow fadeIn">
+                           <li>06 Months</li>
+                        </ul>
+                     </div>
+                     <!-- Email -->
+                     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12">
+                        <div class="jobs_subtitle wow fadeIn" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
+                        <ul class="jobs_ul wow fadeIn" title="Trainee Marketing Executive Jobs / Careers / Opportunities - Send CV">
+                           <li>* To : info@creative-2.com</li>
+                           <li>* Subject : "Trainee Marketing Executive"</li>
+                        </ul>
+                     </div>
                   </div>
                </div>
+            </div>
          </div>
       </div>
    </div>
@@ -263,44 +259,44 @@
    <!-- JUNIOR PHP DEVELOPER -->
    <div class="container py-2" title="Junior PHP Developer Jobs / Careers / Opportunities">
       <div class="row" title="Junior PHP Developer Jobs / Careers / Opportunities">
-         <!-- Column 1 -->
-         <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 job_description" title="Junior PHP Developer Jobs / Careers / Opportunities">
+         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 job_description" title="Junior PHP Developer Jobs / Careers / Opportunities">
             <!-- Title -->
             <div class="wow fadeIn job_heading1" title="Junior PHP Developer Jobs / Careers / Opportunities - Job Title">
                <a name="junior-php-developer"></a>
-               <span  title="Junior PHP Developer Jobs / Careers / Opportunities - Job Title"><span class="subtitle_type1_word2">Junior </span>PHP Developer</span>
+               <span title="Junior PHP Developer Jobs / Careers / Opportunities - Job Title"><span class="subtitle_type1_word2">Junior </span>PHP Developer</span>
             </div>
-            <!-- Requirments -->
-            <div class="jobs_subtitle wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
-            <ul class="jobs_ul wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Requirements">
-               <li>1) 06 months of Work experience</li>
-               <li>2) Knowledge of HTML5, CSS3, MySQl, JavaScript & jQuery</li>
-               <li>3) Knowledge of Bootstrap</li>
-               <li>4) Familiarity with PHP Framesworks - Laravel & Codeigniter </li>
-            </ul>
-            <!-- Bottom -->
-               <div class="row" title="Junior PHP Developer Jobs / Careers / Opportunities">
-                  <!-- Email -->
-                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" title="Junior PHP Developer Jobs / Careers / Opportunities - Send CV">
-                     <div class="jobs_subtitle wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
-                     <ul class="jobs_ul wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Send CV">
-                        <li>* To : info@creative-2.com</li>
-                        <li>* Subject : "Junior PHP Developer"</li>
-                     </ul>
-                  </div>
-                  <!-- Period -->
-                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" title="Junior PHP Developer Jobs / Careers / Opportunities - Training Period">
-                     <div class="jobs_subtitle wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Training Period"> <i class="fas fa-clock career_icon"></i> Training Period</div>
-                     <ul class="jobs_ul wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Training Period">
-                        <li>06 Months</li>
-                     </ul>
+            <div class="row">
+               <div class="col-lg-8 col-md-12 col-12">
+                  <!-- Requirments -->
+                  <div class="jobs_subtitle wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
+                  <ul class="jobs_ul wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Requirements">
+                     <li>1) 06 months of Work experience</li>
+                     <li>2) Knowledge of HTML5, CSS3, MySQl, JavaScript & jQuery</li>
+                     <li>3) Knowledge of Bootstrap</li>
+                     <li>4) Familiarity with PHP Framesworks - Laravel & Codeigniter </li>
+                  </ul>
+               </div>
+               <div class="col-lg-4 col-md-12 col-12">
+                  <!-- Bottom -->
+                  <div class="row" title="Junior PHP Developer Jobs / Careers / Opportunities">
+                     <!-- Period -->
+                     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12" title="Junior PHP Developer Jobs / Careers / Opportunities - Training Period">
+                        <div class="jobs_subtitle wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Training Period"> <i class="fas fa-clock career_icon"></i> Training Period</div>
+                        <ul class="jobs_ul wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Training Period">
+                           <li>06 Months</li>
+                        </ul>
+                     </div>
+                     <!-- Email -->
+                     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12" title="Junior PHP Developer Jobs / Careers / Opportunities - Send CV">
+                        <div class="jobs_subtitle wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
+                        <ul class="jobs_ul wow fadeIn" title="Junior PHP Developer Jobs / Careers / Opportunities - Send CV">
+                           <li>* To : info@creative-2.com</li>
+                           <li>* Subject : "Junior PHP Developer"</li>
+                        </ul>
+                     </div>
                   </div>
                </div>
-         </div>
-         <!-- Column 2 -->
-         <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12" title="Junior PHP Developer Jobs / Careers / Opportunities - Image">
-            <!-- Image -->
-            <img src="images/careers/web-design-software-development-sri-lanka-vacancies-job-opportunities-php2.jpg" class="img-fluid job_position_images wow fadeInRight" alt="Junior PHP Developer Jobs / Careers / Opportunities - Image" title="Junior PHP Developer Jobs / Careers / Opportunities - Image" />
+            </div>
          </div>
       </div>
    </div>
@@ -308,39 +304,37 @@
    <!-- PHP DEVELOPER -->
    <div class="container py-2" title="PHP Developer Jobs / Careers / Opportunities">
       <div class="row" title="PHP Developer Jobs / Careers / Opportunities">
-         <!-- Column 1 -->
-         <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12" title="PHP Developer Jobs / Careers / Opportunities - Image">
-            <!-- Image -->
-            <img src="images/careers/web-design-software-development-sri-lanka-vacancies-job-opportunities-php3.jpg" class="img-fluid job_position_images wow fadeInLeft" alt="PHP Developer Jobs / Careers / Opportunities - Image" title="PHP Developer Jobs / Careers / Opportunities - Image" />
-         </div>
-         <!-- Column 2 (Space) -->
-         <div class="col-xl-1 col-lg-1 col-md-12 col-sm-12 col-12 job_description" title="PHP Developer Jobs / Careers / Opportunities"></div>
-         <!-- Column 3 -->
-         <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12 job_description" title="PHP Developer Jobs / Careers / Opportunities - Job Description">
+         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 job_description" title="PHP Developer Jobs / Careers / Opportunities - Job Description">
             <!-- Title -->
             <div class="wow fadeIn job_heading1" title="PHP Developer Jobs / Careers / Opportunities - Job Title">
                <a name="php-developer"></a>
                <span title="PHP Developer Jobs / Careers / Opportunities - Job Title">PHP Developer</span>
             </div>
-            <!-- Requiements -->
-            <div class="jobs_subtitle wow fadeIn" title="PHP Developer Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
-            <ul class="jobs_ul wow fadeIn" title="PHP Developer Jobs / Careers / Opportunities - Requirements">
-               <li>1) Average Knowledge of PHP and MYSQL</li>
-               <li>2) Average Knowledge of HTML 5, CSS 3, JavaScript, Jquery</li>
-               <li>3) Knowledge of WordPress, Joomla</li>
-               <li>4) Familiarity with PHP Framesworks, Knowledge of Anjular JS would be an added advantage</li>
-            </ul>
-            <!-- Bottom -->
-               <div class="row" title="PHP Developer Jobs / Careers / Opportunities">
-                  <!-- Email -->
-                  <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" title="PHP Developer Jobs / Careers / Opportunities - Send CV">
-                     <div class="jobs_subtitle wow fadeIn" title="PHP Developer Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
-                     <ul class="jobs_ul wow fadeIn" title="PHP Developer Jobs / Careers / Opportunities - Send CV">
-                        <li>* To : info@creative-2.com</li>
-                        <li>* Subject : "PHP Developer"</li>
-                     </ul>
+            <div class="row">
+               <div class="col-lg-8 col-md-12 col-12">
+                  <!-- Requiements -->
+                  <div class="jobs_subtitle wow fadeIn" title="PHP Developer Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
+                  <ul class="jobs_ul wow fadeIn" title="PHP Developer Jobs / Careers / Opportunities - Requirements">
+                     <li>1) Average Knowledge of PHP and MYSQL</li>
+                     <li>2) Average Knowledge of HTML 5, CSS 3, JavaScript, Jquery</li>
+                     <li>3) Knowledge of WordPress, Joomla</li>
+                     <li>4) Familiarity with PHP Framesworks, Knowledge of Anjular JS would be an added advantage</li>
+                  </ul>
+               </div>
+               <div class="col-lg-4 col-md-12 col-12">
+                  <!-- Bottom -->
+                  <div class="row" title="PHP Developer Jobs / Careers / Opportunities">
+                     <!-- Email -->
+                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" title="PHP Developer Jobs / Careers / Opportunities - Send CV">
+                        <div class="jobs_subtitle wow fadeIn" title="PHP Developer Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
+                        <ul class="jobs_ul wow fadeIn" title="PHP Developer Jobs / Careers / Opportunities - Send CV">
+                           <li>* To : info@creative-2.com</li>
+                           <li>* Subject : "PHP Developer"</li>
+                        </ul>
+                     </div>
                   </div>
                </div>
+            </div>
          </div>
       </div>
    </div>
@@ -348,44 +342,44 @@
    <!-- SOFTWARE DEVELOPER -->
    <div class="container py-2" title="Software Developer Jobs / Careers / Opportunities">
       <div class="row" title="Software Developer Jobs / Careers / Opportunities">
-         <!-- Column 1 -->
-         <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 job_description" title="Software Developer Jobs / Careers / Opportunities - Job Description">
+         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 job_description" title="Software Developer Jobs / Careers / Opportunities - Job Description">
             <!-- Title -->
             <div class="wow fadeIn job_heading1" title="Software Developer Jobs / Careers / Opportunities - Job Title">
                <a name="software-developer"></a>
                <span class="wow fadeIn" title="Software Developer Jobs / Careers / Opportunities - Job Title">Software Developer</span>
             </div>
-            <!-- Requiements -->
-            <div class="jobs_subtitle wow fadeIn" title="Software Developer Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
-            <ul class="jobs_ul wow fadeIn" title="Software Developer Jobs / Careers / Opportunities - Requirements">
-               <li>1) Learn state of the art technologies</li>
-               <ul>
-                  <li>Micro services</li>
-                  <li>Cloud and container computing</li>
-                  <li>API, security, monitoring and analytics</li>
-                  <li>Latest programming languages such as Go Lang</li>
-                  <li>DevOps</li>
-               </ul>
-               <li>2) Involve in database, systems and application design from ground up</li>
-               <li>3) Create next generation of computing solutions</li>
-               <li>4) Soft skills development in addition to technical skills</li>
-            </ul>
-            <!-- Bottom -->
-               <div class="row" title="Software Developer Jobs / Careers / Opportunities">
-                  <!-- Email -->
-                  <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" title="Software Developer Jobs / Careers / Opportunities - Send CV">
-                     <div class="jobs_subtitle wow fadeIn" title="Software Developer Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
-                     <ul class="jobs_ul wow fadeIn" title="Software Developer Jobs / Careers / Opportunities - Send CV">
-                        <li>* To : info@creative-2.com</li>
-                        <li>* Subject : "Software Developer"</li>
+            <div class="row">
+               <div class="col-lg-8 col-md-12 col-12">
+                  <!-- Requiements -->
+                  <div class="jobs_subtitle wow fadeIn" title="Software Developer Jobs / Careers / Opportunities - Requirements"> <i class="fas fa-folder-open career_icon"></i> Basic Requirements</div>
+                  <ul class="jobs_ul wow fadeIn" title="Software Developer Jobs / Careers / Opportunities - Requirements">
+                     <li>1) Learn state of the art technologies</li>
+                     <ul>
+                        <li>Micro services</li>
+                        <li>Cloud and container computing</li>
+                        <li>API, security, monitoring and analytics</li>
+                        <li>Latest programming languages such as Go Lang</li>
+                        <li>DevOps</li>
                      </ul>
+                     <li>2) Involve in database, systems and application design from ground up</li>
+                     <li>3) Create next generation of computing solutions</li>
+                     <li>4) Soft skills development in addition to technical skills</li>
+                  </ul>
+               </div>
+               <div class="col-lg-4 col-md-12 col-12">
+                  <!-- Bottom -->
+                  <div class="row" title="Software Developer Jobs / Careers / Opportunities">
+                     <!-- Email -->
+                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" title="Software Developer Jobs / Careers / Opportunities - Send CV">
+                        <div class="jobs_subtitle wow fadeIn" title="Software Developer Jobs / Careers / Opportunities - Send CV"> <i class="fas fa-envelope career_icon email_career_icon"></i> Send Your CV</div>
+                        <ul class="jobs_ul wow fadeIn" title="Software Developer Jobs / Careers / Opportunities - Send CV">
+                           <li>* To : info@creative-2.com</li>
+                           <li>* Subject : "Software Developer"</li>
+                        </ul>
+                     </div>
                   </div>
                </div>
-         </div>
-         <!-- Column 2 -->
-         <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12" title="Software Developer Jobs / Careers / Opportunities - Image">
-            <!-- Image -->
-            <img src="images/careers/web-design-software-development-sri-lanka-vacancies-job-opportunities-php4.jpg" class="img-fluid wow fadeInRight job_position_images" title="Software Developer Jobs / Careers / Opportunities - Image" alt="Software Developer Jobs / Careers / Opportunities - Image" />
+            </div>
          </div>
       </div>
    </div>

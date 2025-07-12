@@ -135,7 +135,7 @@
 		margin-top: 18px !important;
 		text-align: left !important;
 		margin-bottom: 20px !important;
-		font-size: 1.2em !important;
+		font-size: 1.5em !important;
 	}
 	.text_type1 {
 		font-size: 0.9em !important;
@@ -422,12 +422,13 @@
     #about_products_row {
     	display: none !important;
     }
-    .about_buttons  { 
-    width: 90% !important;
-    font-size: 1em !important;
-    padding-top: 6px !important;
-    padding-bottom: 6px !important;
-   }
+	#button-container a{
+		width: 100%;
+	}
+    .about_buttons  {
+    	width: 100% !important;
+    	font-size: 1em !important;
+   	}
    #about_main_image {
    	float: none !important;
    	margin-top: 10px !important;
@@ -437,9 +438,14 @@
     font-size: 1em !important;
     padding-top: 5px !important;
     margin-top: 20px !important;
-    margin-bottom: 20px !important;
+    margin-bottom: 45px !important;
     padding-bottom: 6px !important;
    }
+
+   	#clients_section{
+	margin-bottom: 45px !important;
+	}
+
    .about_paragraph {
    	font-size: 0.95em !important;
    }
@@ -451,6 +457,8 @@
    	margin-bottom: 5px !important;
    }
    #products_title_text_box {
+	border-radius: 0;
+	height: 600px;
     margin-top:0px !important;
     padding-top: 15px !important;
     margin-left: 0px !important
@@ -463,7 +471,7 @@
    	font-size: 1.2em !important;
    }
    #products_summary {
-    font-size: 1em !important;
+    font-size: 0.9rem !important;
     margin-top: 10px !important;
     margin-bottom: 10px !important;
     }
@@ -481,8 +489,6 @@
    }
    #product_features_column {
     margin-bottom: 30px !important;
-    padding-top: 10px !important;
-    padding-bottom: 10px !important;
     background-position-y: center !important;
     background-attachment: inherit !important;
    }
@@ -496,7 +502,7 @@
    	padding-left: 0px !important;
    	width: 100% !important;
     font-size: 1em !important;
-    min-height: auto !important;
+    height: auto !important;
     padding-bottom: 15px !important;
     padding-top: 15px !important;
 	   margin-bottom: 8px;
@@ -518,7 +524,6 @@
    	margin-top: 15px !important;
    }
    #product_features_column {
-   	padding-top: 20px !important;
    }
    .features_ul li {
     padding-top: 4px !important;

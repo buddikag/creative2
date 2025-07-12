@@ -35,14 +35,14 @@
                         <!-- Image -->
                         <div class="carousel-item active" title="Web Designing and Software Development Company in Sri Lanka">
                             <div class="gradient-overlay"></div>
-                            <img class="d-block w-100 img-fluid" src="images/home/creative-2025-slider-1.jpg" title="Web Designing and Software Development Company in Sri Lanka" alt="Web Designing and Software Development Company in Sri Lanka">
-                            <span class="herotitle w-75">Join the Growing List of Satisfied Website Owners</span>
+                            <img class="d-block w-100 img-fluid" src="images/home/reservation-assiatant.jpg" title="Web Designing and Software Development Company in Sri Lanka" alt="Web Designing and Software Development Company in Sri Lanka">
+                            <span class="herotitle w-75">Next-Gen AI Chatbot for Seamless Communication</span>
                         </div>
                         <!-- Image -->
                         <div class="carousel-item" title="Web Designing and Software Development Company in Sri Lanka">
                             <div class="gradient-overlay"></div>
-                            <img class="d-block w-100 img-fluid" src="images/home/reservation-assiatant.jpg" title="Web Designing and Software Development Company in Sri Lanka" alt="Web Designing and Software Development Company in Sri Lanka">
-                            <span class="herotitle w-75">Next-Gen AI Chatbot for Seamless Communication</span>
+                            <img class="d-block w-100 img-fluid" src="images/home/creative-2025-slider-1.jpg" title="Web Designing and Software Development Company in Sri Lanka" alt="Web Designing and Software Development Company in Sri Lanka">
+                            <span class="herotitle w-75">Join the Growing List of Satisfied Website Owners</span>
                         </div>
                     </div>
                     <!-- Left Arrow -->
@@ -253,7 +253,7 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12  ">
                 <div class="feature-card">
-                    <i class="fas fa-cash-register featureicon"></i>
+                    <i class="fas fa-building featureicon"></i>
                     <h4>Point of Sale</h4>
                     <p>Manage restaurant, spa, and other hotel services seamlessly</p>
                 </div>
