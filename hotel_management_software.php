@@ -3,8 +3,7 @@
 
 <head>
    <!-- Page Title -->
-   <title>Hotel Management and Event Planning Software System in Sri Lanka</title>
-   <link rel="canonical" href="https://webdesigncompany.lk/hotel_management_software.php">
+<title>Hotel Management System | Hotel Management Software | Hotel Systems Sri Lanka</title>   <link rel="canonical" href="https://webdesigncompany.lk/hotel_management_software.php">
 
 
    <!-- Common Tags -->
@@ -902,6 +901,47 @@
 
    <!-- Footer -->
    <?php require('includes/footer.php') ?>
+
+   <!-- Structured Data for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "HOPE Hotel Management System",
+  "alternateName": [
+    "Hotel Management Software",
+    "Hotel Systems"
+  ],
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web-based, OS independent",
+  "description": "HOPE is a cloud-based Hotel Management System and Software for hotels in Sri Lanka. Streamline hotel operations, manage reservations, and improve guest experience with our comprehensive hotel systems.",
+  "url": "https://webdesigncompany.lk/hotel_management_software.php",
+  "image": "https://webdesigncompany.lk/images/products/creative-2-hotel-management-software-sri-lanka-main.jpg",
+  "author": {
+    "@type": "Organization",
+    "name": "Creative-2"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Creative-2",
+    "url": "https://webdesigncompany.lk"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "Contact for pricing",
+    "priceCurrency": "LKR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://webdesigncompany.lk/hotel_management_software.php"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "120"
+  },
+  "applicationSuite": "HOPE PMS",
+  "keywords": "Hotel Management System, Hotel Management Software, Hotel Systems, Sri Lanka, Cloud PMS, Channel Manager, Booking Engine"
+}
+</script>
 
    <!-- Smooth Scroll (If user clicks on a module box, the page should direct to the Modules & Features section) -->
    <script type="text/javascript">
