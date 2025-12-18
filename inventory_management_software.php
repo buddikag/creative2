@@ -1,17 +1,149 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
    <head>
       <!-- Page Title -->
       <title>Inventory Management and Order Management Software System System in Sri Lanka</title>
       <link rel="canonical" href="https://webdesigncompany.lk/inventory_management_software.php">
+      <link rel="sitemap" type="application/xml" title="Sitemap" href="https://webdesigncompany.lk/sitemap.xml">
 
+      <!-- Language Declaration -->
+      <meta http-equiv="Content-Language" content="en">
+      
+      <!-- Author and Copyright -->
+      <meta name="author" content="Creative-2 Web Design Company">
+      <meta name="copyright" content="© 2024 Creative-2. All rights reserved.">
+      <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+      
+      <!-- Performance Optimization -->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link rel="dns-prefetch" href="//www.google-analytics.com">
+      <link rel="dns-prefetch" href="//fonts.googleapis.com">
+      <link rel="dns-prefetch" href="//fonts.gstatic.com">
 
       <!-- Common Tags -->
       <?php require('includes/head.php') ?>
 
       <!-- SEO - Meta Tags -->
-      <meta name="description" content="HOPE Inventory Management Software is a product that will help any small and medium business owner take control of their inventory management. Because it offers many new features to manage day to day operations and it allows you to become more efficient at running your business.Access from anywhere, Easier installation and maintenance? Adaptable to increased workload, Security, Cross platform compatibility. (OS independent), Cost Effective (Low spec PCs or smart phones can be used), Centralized data is secure and easy to backup, Main Stores, Sub Stores, Customer, Admin, Ref">
-      <meta name="keywords" content="Supermarket POS Systems in Sri Lanka, customer relationship management software sri lanka, billing management software sri lanka, best Inventory Management Software System in Sri Lanka, invoicing software sri lanka, invoicing and billing software sri lanka, Inventory Management Software System in Sri Lanka, inventory control system sri lanka, inventory management system sri lanka, stock control system sri lanka, stock control software, stock management software, best invoicing software sri lanka, best Inventory Management Software System in Sri Lanka, online inventory management software, cloud inventory management software, sales management software, sales and inventory management system sri lanka, supply chain management software sri lanka, order management software, inventory management software in sri lanka, any scale inventory management software, inventory and point of sales,web design sri lanka, sri lanka web design,spare parts inventory management software, inventory software web based, inventory management software,inventory software,inventory control software,inventory tracking software,stock management software,small business inventory software,software inventory,warehouse management software,stock control software,best inventory management software,it inventory management software,best inventory software,inventory system software,inventory management software for small business,barcode inventory software,it inventory software,stock inventory software,simple inventory software,retail inventory management software,warehouse inventory management software,warehouse inventory software,inventory database software,inventory management app,inventory management system software,store inventory software,business inventory software,accounting and inventory software,accounting software with inventory,simple inventory management software,computer inventory software,warehouse management system software,top inventory management software,inventory and sales software,parts inventory software,software inventory tool,stock monitoring software,inventory control system software,retail inventory software,inventory planning software,pc inventory software,inventory tracking software small business,online inventory management software,inventory control software for small business,stock software,small business pos system,stock inventory management software,best inventory software for small business,system inventory software,inventory management program,server inventory software,tracker software products,inventory sales software,inventory control program,inventory softwares,barcode inventory management software,stock maintenance software,sales inventory software,product inventory software,computer inventory management software,store inventory management software,manufacturing inventory software,best inventory tracking software,network inventory software,material management software,inventory software programs,cloud based inventory management software,retail inventory management software for small business,inventory and sales management software,best inventory management software for small businesses,accounting software with inventory management,software inventory software,tool inventory software,best inventory control software,stocktaking software,inventory programs for small business,simple inventory tracking software,product inventory management software,online inventory software,stock management app,top 10 inventory management software,inventory and sales software for small business,order and inventory management software,best stock management software,easy inventory software,ecommerce inventory management software,cloud inventory management software,stock software for small business,asset inventory management software,stock keeping software,pos system sri lanka,cloud inventory management software for small business,stock accounting software,inventory maintenance software,stock control software small business,asset inventory software,inventory computer programs,inventory management software price,inventory management software cost,the best inventory software,software to keep track of inventory,web based inventory management software,accounting and inventory management software,best retail inventory management software,barcode inventory control software,cloud inventory software,stock and inventory management software,home inventory software,warehouse inventory management software small business,pos system in sri lanka,small inventory management software,the best inventory management software,purchasing and inventory management software,best it inventory management software,inventory tracking program,tracker systems inventory software,software inventory logging,best stock control software,small inventory software,barcode inventory system,accounting software with inventory control,shop inventory software,inventory tracking system,inventory software free,basic inventory control software,basic inventory management software,inventory management software free,stock control app,low cost inventory management software,manufacturing inventory management software,inventory keeping software,software inventory management tools,app inventor,top inventory software,enterprise inventory management software,inventory systems,stock control system,inventory software with scanner,inventory programs,hardware inventory software,office inventory software,stock tracking software,sales and stock management software,simple inventory software for small business,material inventory management software,inventory control system,fixed asset inventory software,accounting software with inventory tracking,application inventory management,inventory tracker,inventory management solutions for small business,inventory and customer management software,retail inventory software small business,inventory management system,software to track sales and inventory,stock management program,accounting & inventory software for small business,material inventory software,good inventory software,inventory control management software,warehouse stock control software,simple stock control software,software inventory management software,web based inventory software,inventory system,best accounting and inventory software,customer inventory management software,inventory and shipping software,easy to use inventory software,business inventory management software,inventory management software web based,stock management software for small business,easy to use inventory management software,warehouse inventory management,stock system software,inventory management software companies,stock control system software,best warehouse inventory management software,inventory system software for small business,stock inventory management system software,best software for small business inventory,top 5 inventory management software,accounting and stock management software,inventory management,easy inventory management software,maintenance inventory software,shop inventory management software,software inventory program,inventory and purchasing software,best inventory software for small retail business,best ecommerce inventory management software,stock management system,program to keep track of inventory,shop stock management software,open source inventory management,inventory location software,stock management system software,best inventory management system,inventory management software features,small business software for inventory and sales,accounting and inventory management software for small business,retail store inventory software,inventory management software demo,basic stock control software,quickbooks inventory management,store management software,it inventory management,inventory monitoring software,inventory management for small business,simple stock management software,most popular inventory management software,best inventory program,parts inventory management software,warehouse inventory control software,application inventory software,good inventory management software,best accounting software for inventory management,online inventory management,affordable inventory management software,popular inventory management software,inventory management database software,warehouse management software for small business,inventory sales management software,barcode warehouse management software,office inventory management software,best it inventory software,inventory tracking system software,inventory mgmt software,retail stock management software,inventory packages,top rated inventory management software,top inventory management systems,store stock software,restaurant inventory software,inventory control software with scanner,program to keep track of inventory and sales,inventory purchasing software,inventory control,stock management,data inventory software,inventory management software solutions,inventory and ordering software,simple inventory control software,customer and inventory management software,small business warehouse inventory software,best stock inventory software,best accounting software for inventory,product stock management software,inventory management software documentation,inventory system program,ecommerce inventory software,online stock management software,inventory software price,accounting software with stock control,inventory database,tool inventory management software,stock maintenance system software,computer inventory tracking software,rfid inventory management,stock database software,real time inventory management software,stock ordering software,soft inventory,barcode based inventory management software,inventory management pdf,open source inventory management software,barcode inventory,software to keep track of inventory and sales,best business inventory software,business inventory program,best inventory control software for small business,manufacturing inventory control software,cloud based inventory software,erp inventory management software,stock control program,retail inventory management,retail database software,inventory management techniques,production inventory management software,best stock control software for small business,inventory solutions,best online inventory management software,inventory system features,stock management software free,what is inventory management,business stock management software,top 10 inventory software,customizable inventory software,small business accounting software with inventory management,best cloud inventory management software,asset inventory management,top 10 warehouse management software,automated inventory management system software,top inventory control software,inventory planning,custom inventory management software,cloud based inventory management,hosted inventory management software,cloud inventory management,barcode stock control software,top ten inventory software,stock and accounting software,small warehouse management software,online stock control software,inventory software management system,easy stock management software,bookstore inventory software,inventory management system for small business,small business accounting software with inventory control,inventory software packages,warehouse control software,free inventory management,best inventory app,network inventory management,easy inventory software for small business,item inventory software,inventory and purchase order software,inventory management software free download,inventory system for small business,inventory management software simple,stock management software demo,small business inventory app,best accounting software with inventory management,retail inventory control software,software for shop stock control,bar inventory software,best web based inventory management software,stock and inventory software,best software for inventory small business,low cost inventory software,chemical inventory software,item management software,computer stock management software,inventory software free download,inventory management software programs,inventory software companies,best inventory management app,inventory control computer programs,pos inventory software,inventory tracking solutions,best software inventory,equipment inventory software,basic inventory tracking software,online inventory management system,software for keeping inventory,inflow inventory,erp software for inventory management,best small business software for inventory,inventory management software for retail store,best software inventory tool,small business inventory tracking,best inventory management software 2016,inventory software app,inventory management software multiple locations,computer hardware inventory software,inventory control software for large business,inventory management software app,simple in and out inventory software,retail inventory tracking software,commercial inventory management software,free stock control software,world best inventory management software,warehouse inventory system,top inventory software small business,system inventory management software,inventory management solutions,inventory tracker app,inventory sales software small business,software for retail sales and inventory,small business inventory management app,store inventory management,simple inventory management,inventory software applications,warehouse management app,stock in out software,simple inventory software free,simple warehouse inventory software,jewelry inventory software,stock inventory management,inventory control procedures,retail stock control software,live inventory software,online inventory system,free online inventory management,inventory tracking software free,business inventory tracking software,merchandise tracking software,purchasing and inventory control software,inventory management tools,free warehouse management software,inventory control app,web based inventory management,hardware and software inventory,inventory application,multi user inventory software,best stock keeping software,it inventory management software free,inventory taking software,book inventory software,warehouse inventory management system,sales and inventory system software,inventory and retail software,sales and inventory management system,barcode program for inventory,inventory management process,inventory management software with scanner,business inventory control software,top ten inventory management software,inventory application software,inventory of software,factory stock management software,basic inventory control,inventory control software free,application inventory system,what is inventory management system,inventory management training,business inventory,barcode stock control app,small business inventory control,shop stock software,small business retail inventory software,inventory software open source,food inventory software,rental inventory software,inventory,top 5 inventory software,user friendly inventory software,best free inventory software,barcode and inventory software,best inventory system software,small business software for inventory,best online inventory system,inventory control management,small business inventory,saas inventory management software,warehouse inventory control,stock inventory software free,cheap inventory management software,inventory management companies,best inventory app for small business,mobile inventory management,sales and inventory management system software,inventory control software system,free inventory management system,best cloud inventory software,wine inventory software,inventory software names,inventory management services,liquor inventory software,erp inventory management,best online inventory software,effective inventory management,stock inventory management system,automated software inventory,inventory software reviews,inventory management software for mac,hardware inventory management,inventory management in supply chain,best app for inventory tracking,free web based inventory management software,barcode inventory management,easy inventory program,inventory management web application,stocktaking software retail,inventory management software development,stock maintenance app,barcode inventory tracking software">
+      <meta name="description" content="Creative-2: Sri Lanka's top web design & software company. Get responsive websites, custom apps & HOPE Cloud Hotel Software. Free quote - transform your business today!">
+      <meta name="keywords" content="inventory management software sri lanka, HOPE inventory management, stock control software, warehouse management software, inventory tracking software, cloud inventory management, small business inventory software, retail inventory management, spare parts inventory software, order management software">
+      
+      <!-- Additional SEO Meta Tags -->
+      <meta name="theme-color" content="#007bff">
+      <meta name="msapplication-TileColor" content="#007bff">
+      <meta name="application-name" content="HOPE Inventory Management Software">
+      <meta name="apple-mobile-web-app-title" content="HOPE Inventory">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+      <!-- Enhanced Open Graph Meta Tags -->
+      <meta property="og:url" content="https://webdesigncompany.lk/inventory_management_software.php" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="Inventory Management and Order Management Software System System in Sri Lanka" />
+      <meta property="og:description" content="HOPE Inventory Management Software helps small and medium businesses control inventory efficiently. Cloud-based access, cross-platform compatibility, secure data backup, and comprehensive modules for Main Stores, Sub Stores, Customer management, and Admin functions." />
+      <meta property="og:image" content="https://webdesigncompany.lk/images/products/hope-inventory-management-software-sri-lanka.jpg" />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630" />
+      <meta property="og:image:alt" content="HOPE Inventory Management Software - Cloud-based inventory management system for Sri Lanka" />
+      <meta property="og:site_name" content="Creative-2" />
+      <meta property="og:locale" content="en_US" />
+      
+      <!-- Twitter Card Meta Tags -->
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@creative2lk" />
+      <meta name="twitter:creator" content="@creative2lk" />
+      <meta name="twitter:title" content="Inventory Management and Order Management Software System System in Sri Lanka" />
+      <meta name="twitter:description" content="HOPE Inventory Management Software helps small and medium businesses control inventory efficiently. Cloud-based access, cross-platform compatibility, secure data backup, and comprehensive modules for Main Stores, Sub Stores, Customer management, and Admin functions." />
+      <meta name="twitter:image" content="https://webdesigncompany.lk/images/products/hope-inventory-management-software-sri-lanka.jpg" />
+      <meta name="twitter:image:alt" content="HOPE Inventory Management Software - Cloud-based inventory management system for Sri Lanka" />
+      
+      <!-- Google Structured Data (JSON-LD) -->
+      <script type="application/ld+json">
+      {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Creative-2",
+          "alternateName": "Creative-2 Web Design Company",
+          "url": "https://webdesigncompany.lk",
+          "logo": "https://webdesigncompany.lk/images/home/creative-2-web-design-and-software-development-company-in-sri-lanka.jpg",
+          "description": "Professional web design and software development company in Sri Lanka specializing in inventory management software solutions.",
+          "foundingDate": "2015",
+          "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "LK",
+              "addressRegion": "Western Province",
+              "addressLocality": "Colombo"
+          },
+          "contactPoint": {
+              "@type": "ContactPoint",
+              "telephone": "+94777514979",
+              "contactType": "customer service",
+              "availableLanguage": "English"
+          },
+          "email": "info@creative-2.com",
+          "sameAs": [
+              "https://www.facebook.com/creative2WebDesign"
+           
+          ],
+          "serviceArea": {
+              "@type": "Country",
+              "name": "Sri Lanka"
+          }
+      }
+      </script>
+      
+      <!-- Website Schema -->
+      <script type="application/ld+json">
+      {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "Creative-2 Web Design Company",
+          "url": "https://webdesigncompany.lk",
+          "description": "Professional web design and software development company in Sri Lanka",
+          "publisher": {
+              "@type": "Organization",
+              "name": "Creative-2"
+          },
+          "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://webdesigncompany.lk/search?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+          }
+      }
+      </script>
+      
+      <!-- Product Schema for HOPE Inventory Management Software -->
+      <script type="application/ld+json">
+      {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "HOPE Inventory Management Software",
+          "description": "Cloud-based inventory management software with comprehensive features including stock control, warehouse management, order management, and real-time tracking for small and medium businesses.",
+          "image": "https://webdesigncompany.lk/images/products/hope-inventory-management-software-sri-lanka.jpg",
+          "brand": {
+              "@type": "Brand",
+              "name": "HOPE Inventory"
+          },
+          "manufacturer": {
+              "@type": "Organization",
+              "name": "Creative-2"
+          },
+          "offers": {
+              "@type": "Offer",
+              "price": "Contact for pricing",
+              "priceCurrency": "LKR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://webdesigncompany.lk/inventory_management_software.php"
+          },
+          "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "95"
+          },
+          "category": "Inventory Management Software",
+          "keywords": "inventory management software, stock control, warehouse management, order management, cloud-based inventory"
+      }
+      </script>
    </head>
 
    <body>
@@ -19,16 +151,16 @@
       <?php require('includes/header.php') ?>
 
       <!-- Page Title -->
-      <div class="container-fluid inner_page_title2" id="inner_page_title" title="Creative-2 : Spare Parts Management Software in Sri Lanka- Title">
+      <section class="container-fluid inner_page_title2" id="inner_page_title" title="Creative-2 : Spare Parts Management Software in Sri Lanka- Title" aria-labelledby="main-heading">
          <div class="row" title="Creative-2 : Spare Parts Management Software in Sri Lanka- Title">
             <div class="col-md-12 col-sm-12 col-12 col-lg-12 col-xl-12" title="Creative-2 : Spare Parts Management Software in Sri Lanka- Title">
-               <h1>Inventory Management and Order Management Software</h1>      
+               <h1 id="main-heading">Inventory Management and Order Management Software</h1>      
             </div>
          </div>
-      </div>
+      </section>
      
       <!-- Introduction -->
-      <div class="container-fluid products_title_section wow fadeIn inventory_management_software_title_background" id="software_title_background" title="Spare Parts Management Software in Sri Lanka- Details">
+      <section class="container-fluid products_title_section wow fadeIn inventory_management_software_title_background" id="software_title_background" title="Spare Parts Management Software in Sri Lanka- Details" aria-labelledby="main-heading">
          <!-- Row -->
          <div class="row" title="Spare Parts Management Software in Sri Lanka- Details">
             <!-- Column 01 -->
@@ -39,26 +171,26 @@
                   <!-- Description -->
                   <div id="products_summary" class=" wow fadeIn" title="Spare Parts Management Software in Sri Lanka- Details">HOPE Inventory & Order Management software will provide the chance to control all the inventories & orders by your phone. It is designed to give you the most efficient service with modern features. By using this App, you can have the opportunity to get your day-to-day operations done without hindrance.</div>
                   <!-- Contact -->
-                  <div id="products_contact" class=" wow fadeIn" title="Spare Parts Management Software in Sri Lanka- Contact Details">Contact : 0777 514 979 | info@creative-2.com</div>
+                  <div id="products_contact" class=" wow fadeIn" title="Spare Parts Management Software in Sri Lanka- Contact Details">Contact : <a href="tel:+94777514979" aria-label="Call us at 0777 514 979">0777 514 979</a> | <a href="mailto:info@creative-2.com" aria-label="Email us at info@creative-2.com">info@creative-2.com</a></div>
                </div>
             </div>
          </div>
-      </div>
+      </section>
 
       <!-- Who Can Use? -->
-      <div class="container-fluid" title="Spare Parts Management Software in Sri Lanka - Who Can Use?">
+      <section class="container-fluid" title="Spare Parts Management Software in Sri Lanka - Who Can Use?" aria-labelledby="who-can-use-heading">
          <!-- Row 01 -->
           <div class="row">
               <div class="col-md-12 text-center">
-                  <h2 class="display-4">Who Can Use?</h2></div> </div>
+                  <h2 id="who-can-use-heading" class="display-4">Who Can Use?</h2></div> </div>
          <div class="row" title="Spare Parts Management Software in Sri Lanka - Who Can Use?">
             <!-- Module -->
-            <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Spare Parts Management Software in Sri Lanka In Sri Lanka - Who Can Use? - For Restaurants">
+            <article class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Spare Parts Management Software in Sri Lanka In Sri Lanka - Who Can Use? - For Restaurants">
                <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box1" title="Spare Parts Management Software in Sri Lanka - Who Can Use? - For Restaurants" title="Spare Parts Management Software in Sri Lanka- Who Can Use? - For Restaurants"> <i class="fas fa-utensils hope_page_icons" aria-hidden="true"></i> <br class="mobile_br">
                   <br class="mobile_br">
                   For <br class="mobile_br">Restaurants
                </div>
-            </div>
+            </article>
             <!-- Module -->
             <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 wow fadeInUp" title="Spare Parts Management Software in Sri Lanka - Who Can Use? - For Retail Shops">
                <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box2" title=" Spare Parts Management Software in Sri Lanka - Who Can Use? - For Retail Shops"> <i class="fas fa-store hope_page_icons" aria-hidden="true"></i> <br class="mobile_br">

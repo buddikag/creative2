@@ -3,16 +3,205 @@
 
 <head>
    <!-- Page Title -->
-   <title>Web Design and Software Development Company Products in Sri Lanka</title>
+   <title>Our Products: Web Design & Software Solutions in Sri Lanka | Creative-2</title>
    <link rel="canonical" href="https://webdesigncompany.lk/our_products.php">
-
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
    <!-- Common Tags -->
    <?php require('includes/head.php') ?>
 
    <!-- SEO - Meta Tags -->
-   <meta name="description" content="Our products for small retail shop to large hotel chain and Tour Operators. Desktop and web based solutions. Creative Two Pvt Ltd is a full Products Sri Lanka based web design and web based IT solution providing company dedicated to helping all and medium sized businesses to launch and prosper online. The company offers affordable offshore website design, web site maintenance, web site usability, web design consultancy and development, e-commerce web design and software development along with friendly customer Products at great rates! Creative-2 brings together years of experience, not only in website design and web development, but also in web marketing and search engine optimisation. The company provides comprehensive web based Products, Web and Graphic Design, Web Application Development and Software solutions.">
-   <meta name="keywords" content="inventory management software,hotel management software,accounting software,small business accounting software,bookkeeping software,inventory software,online accounting software,best accounting software,business accounting software,best accounting software for small business,hotel software,inventory control software,small business software,inventory tracking software,simple accounting software,accounting packages,account software,stock management software,cloud accounting software,personal accounting software,easy accounting software,small business inventory software,software inventory,small business bookkeeping software,best bookkeeping software,warehouse management software,stock control software,accounting software packages,accountancy software,best inventory management software,it inventory management software,best inventory software,best online accounting software,accounting software programs,basic accounting software,inventory system software,online bookkeeping software,software hotel,top accounting software,list of accounting software,quickbooks software,simple bookkeeping software,types of accounting software,inventory management software for small business,barcode inventory software,it inventory software,small business financial software,stock inventory software,financial software,web based accounting software,financial accounting software,best software for small business,accounting packages for small business,top 10 accounting software,business finance software,best business accounting software,accounting app,simple inventory software,retail inventory management software,accounting system software,accounting system for small business,warehouse inventory management software,warehouse inventory software,hotel management system software,accounting programs for small business,inventory database software,simple accounting software for small business,hotel reservation software,online accounting system,online accounting software for small business,best cloud accounting software,business bookkeeping software,inventory management system software,accounting computer programs,store inventory software,account management software,home accounting software,business inventory software,accounting and inventory software,professional accounting software,basic bookkeeping software,accounting software for accountants,cheap accounting software,easy bookkeeping software,popular accounting software,accounting software comparison,accounting software with inventory,simple inventory management software,farm accounting software,computer inventory software,best bookkeeping software for small business,easy accounting software for small business,payroll accounting software,top inventory management software,accounting and payroll software,hotel pms software,small business accounting software comparison,hospitality software,inventory and sales software,most popular accounting software,the best accounting software,latest accounting software,best hotel management software,hotel billing software,basic accounting software for small business,general ledger software,hotel booking software,new accounting software,hotel software systems,online business accounting software,software inventory tool,small accounting software,easy to use accounting software,payroll software for small business,hotel property management software,best online accounting software for small business,hospital management software,small business accounting software with payroll,stock monitoring software,business invoice software,computer accounting software,simple business accounting software,inventory control system software,sme accounting software,online accounting packages,business accounting system,good accounting software,retail inventory software,quickbooks accounting software,easiest accounting software,inventory planning software,pc inventory software,inventory tracking software small business,enterprise accounting software,bookkeeping software for accountants,inventory control software for small business,inventory and accounting software for small business,top accounting software for small business,accounting software applications,accounting software australia,stock software,accounting software company,desktop accounting software for small business,hotel management apps,stock inventory management software,best inventory software for small business,tax accounting software,system inventory software,inventory management program,nonprofit accounting software,server inventory software,corporate accounting software,office accounting software,hotel accounting software,retail accounting software,accounting software packages for small businesses,hotel management software demo,best desktop accounting software,windows accounting software,tracker software products,inventory sales software,easy bookkeeping software for small business,inventory control program,pms software,best accounting system for small business,inventory softwares,the best accounting software for small business,barcode inventory management software,stock maintenance software,sales inventory software,best hotel software,accounting and payroll software for small business,product inventory software,computer inventory management software,bookkeeping programs for small business,bookkeeper accounting software,store inventory management software,accounts payable software,small company accounting software,simply accounting program,manufacturing inventory software,best inventory tracking software,web accounting software,network inventory software,accounting software solutions,material management software,inventory software programs,cloud based inventory management software,best financial software for small business,best bookkeeping app,retail inventory management software for small business,inventory and sales management software,buy accounting software,home business accounting software,accounting for software,best accounting program for small business,best inventory management software for small businesses,accounting software with inventory management,hotel check in software,top ten accounting software,best accounting app,top 5 accounting software,software inventory software,account management software for small business,simple bookkeeping software for small business,cloud based hotel management software,easiest accounting software for small business,tool inventory software,basic business accounting software,bookkeeping computer programs,easiest bookkeeping software,hotel room management software,best inventory control software,invoice accounting software,micro business accounting software,smb accounting software,stocktaking software,small business invoice software,tax accounting software for small business,inventory programs for small business,best accounting package for small business,simple inventory tracking software,expense software for small business,cash accounting software,business payroll software,top bookkeeping software,hotel revenue management software,product inventory management software,hotel front desk software,best online bookkeeping software,desktop bookkeeping software,general ledger accounting software,best small accounting software,accounting software for mac,top 10 inventory management software,accounting software price,inventory and sales software for small business,hotel reservation system software,small hotel management software,accounting programs,double entry accounting software,sage accounting software,small hotel software,small business tracking software,order and inventory management software,accounting software for medium business,best stock management software,good accounting software for small business,accounting software 2016,easy inventory software,best simple accounting software,ecommerce inventory management software,home and business accounting software,account keeping software,hotel room booking software,bookkeeping and accounting software,small business accounting apps,motel management software,warehouse management system software,best business finance software,cloud inventory management software,church accounting software,stock software for small business,project management software,business software,pc based accounting software,accounting platforms,business banking software,asset inventory management software,cloud inventory management software for small business,easy business accounting software,online accounting programs for small business,stock accounting software,small business bookkeeping,top rated accounting software,best accounting software for bookkeeping business,accounting products,best accounting system,inventory maintenance software,sales accounting software,stock control software small business,accounting software uk,construction accounting software,best hotel booking software,profit accounting software,asset inventory software,most popular accounting software for small business,easy to use accounting software for small business,easy to use bookkeeping software,inventory computer programs,microsoft accounting software,soft hotel software,hotel reception software,myob software,small business software packages,accommodation booking software,inventory management software price,small business software programs,what's the best accounting software for small business,inventory management software cost,financial accounting software for small business,best accounting software for small business with payroll,the best inventory software,best accounting and payroll software for small business,online accounting system for small business,business management software,software to keep track of inventory,small business accounting software free,finance and accounting software,accounting software products,free bookkeeping software,web based inventory management software,accounting and inventory management software,which accounting software,cheap bookkeeping software,peachtree accounting software,small business accounting,hotel maintenance software,basic accounting programs for small business,hospitality software companies,accounting software india,billing software for small business,online hotel booking software,best retail inventory management software,mid sized business accounting software,motel software,top online accounting software,barcode inventory control software,cloud inventory software,top accounting software 2016,stock and inventory management software,good bookkeeping software,home inventory software,warehouse inventory management software small business,cloud hotel management software,pms hotel management software,best cloud accounting software for small business,small inventory management software,best bookkeeping software for accountants,best payroll software for accountants,accounts payable software small business,solomon accounting software,small business bookkeeping app,account book,best accounting and payroll software,hotel booking system software,very small business accounting software,cost of accounting software for small businesses,bookkeeping application,the best inventory management software,hospitality software solutions,purchasing and inventory management software,best it inventory management software,best accounting software for online business,cheap accounting software for small business,best accounting packages,inventory tracking program,tracker systems inventory software,task management software,cheap online accounting software,online hotel management software,features of accounting software,software inventory logging,best app for small business accounting,hotel automation software,small inventory software,best stock control software,barcode inventory system,accounting software with inventory control,accounting and payroll software programs,what's the best accounting software,hotel booking management software,web based hotel management software,online accounting packages for small businesses,peachtree accounting,easiest bookkeeping software for small business,online account,best business bookkeeping software,free accounting software,simple online accounting software,bookkeeping and payroll software,business accounting packages,accountancy software for small business,top cloud accounting software,shop inventory software,hospitality property management software,financial accounting software packages,online bookkeeping,best accounting software for small retail business,cloud accounting,hotel management software features,simply accounting,inventory tracking system,business accounting app,inventory software free,project software,top 10 accounting software for small business,basic inventory control software,hospitality accounting software,more accounting software,basic inventory management software,easy online accounting software,free online accounting software,inventory management software free,online hotel software,low cost inventory management software,accounting & inventory software for small business,manufacturing inventory management software,inventory keeping software,payroll software for bookkeepers,software inventory management tools,app inventor,top inventory software,enterprise inventory management software,inventory systems,best bookkeeping program for small business,best accounting software for medium business,accounting systems,stock control system,various accounting softwares,hotel software solutions,inventory software with scanner,inventory programs,best accounting software for very small business,best small business accounting software for pc,accounting and tax software for small business,best accounting software for multiple small businesses,hotel software companies,office inventory software,the best bookkeeping software,business ledger software,stock tracking software,simple accounting program for small business,sales and stock management software,simple inventory software for small business,list of accounting software for small business,material inventory management software,hotel reservation system,ledger account software,top business accounting software,inventory control system,internet accounting software,complete accounting software,accounting software providers,hotel check in system software,fixed asset inventory software,accounting software with inventory tracking,management software,hotel booking engine software,computer accounting programs for small business,best accounting software for large business,accounting software for multiple small business,inventory tracker,small business bookkeeping and payroll software,best accounting software for small business 2016,simply accounting online,bookkeeping computer software,inventory management solutions for small business,accounting software sales,hotel room software,inventory and customer management software,accounting software programs for small business,most popular bookkeeping software,small business accounting software desktop,accounting software for midsize companies,retail inventory software small business,best small business software packages,busy accounting software,windows accounting software for small business,inventory management system,easy accounting program,pms hotel,software to track sales and inventory,accounting software vendors,accounting software for very small business,recommended accounting software,simple bookkeeping app,open source accounting software,accounting software easy to use,hotel inventory management software,sap accounting software,best accounting software for online retail business,tally accounting software,software accountant,basic accounting package small business,best accounting software for small business with inventory,stock management program,material inventory software,time accounting software,resort management software,very simple accounting software,good inventory software,hotel management,best accounting software for midsize business,inventory control management software,accounting software free download,bookkeeping programs,small business accounting software not online,myob accounting software,simple accounting packages,basic accounting packages,top hotel management software,best basic accounting software,top accounting packages,quickbooks accountant,small office accounting software,software inventory management software,business account,popular accounting software for small business">
+   <meta name="description" content="Explore Creative-2's comprehensive range of software products and web design solutions in Sri Lanka. From hotel management software to inventory systems, eCommerce platforms, and custom web development. Desktop and cloud-based solutions for businesses of all sizes.">
+   <meta name="keywords" content="software products sri lanka, hotel management software, inventory management software, ecommerce software, web design solutions, cloud-based software, business software sri lanka, web development company, software development sri lanka, HOPE software, channel manager, banquet management software, tour operator software, restaurant ordering software, payroll management software, medical center software">
+   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+   
+   <!-- Additional SEO Meta Tags -->
+   <meta name="theme-color" content="#007bff">
+   <meta name="msapplication-TileColor" content="#007bff">
+   <meta name="application-name" content="Creative-2 Products">
+   <meta name="apple-mobile-web-app-title" content="Creative-2 Products">
+   <meta name="apple-mobile-web-app-capable" content="yes">
+   <meta name="apple-mobile-web-app-status-bar-style" content="default">
+   <meta name="author" content="Creative-2 Web Design Company">
+   <meta name="copyright" content="© 2025 Creative-2. All rights reserved.">
+
+   <!-- Enhanced Open Graph Meta Tags -->
+   <meta property="og:url" content="https://webdesigncompany.lk/our_products.php" />
+   <meta property="og:type" content="website" />
+   <meta property="og:title" content="Our Products: Web Design & Software Solutions in Sri Lanka | Creative-2" />
+   <meta property="og:description" content="Explore Creative-2's comprehensive range of software products and web design solutions in Sri Lanka. From hotel management software to inventory systems, eCommerce platforms, and custom web development." />
+   <meta property="og:image" content="https://webdesigncompany.lk/images/home/creative-2-web-design-and-software-development-company-in-sri-lanka.jpg" />
+   <meta property="og:image:width" content="1200" />
+   <meta property="og:image:height" content="630" />
+   <meta property="og:image:alt" content="Creative-2 Products: Web Design and Software Solutions in Sri Lanka" />
+   <meta property="og:site_name" content="Creative-2" />
+   <meta property="og:locale" content="en_US" />
+   
+   <!-- Twitter Card Meta Tags -->
+   <meta name="twitter:card" content="summary_large_image" />
+   <meta name="twitter:site" content="@creative2lk" />
+   <meta name="twitter:creator" content="@creative2lk" />
+   <meta name="twitter:title" content="Our Products: Web Design & Software Solutions in Sri Lanka | Creative-2" />
+   <meta name="twitter:description" content="Explore Creative-2's comprehensive range of software products and web design solutions in Sri Lanka. From hotel management software to inventory systems, eCommerce platforms, and custom web development." />
+   <meta name="twitter:image" content="https://webdesigncompany.lk/images/home/creative-2-web-design-and-software-development-company-in-sri-lanka.jpg" />
+   <meta name="twitter:image:alt" content="Creative-2 Products: Web Design and Software Solutions in Sri Lanka" />
+   
+   <!-- Google Structured Data (JSON-LD) for CollectionPage -->
+   <script type="application/ld+json">
+   {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Our Products - Creative-2",
+      "description": "Comprehensive range of software products and web design solutions in Sri Lanka. From hotel management software to inventory systems, eCommerce platforms, and custom web development.",
+      "url": "https://webdesigncompany.lk/our_products.php",
+      "mainEntity": {
+         "@type": "ItemList",
+         "name": "Creative-2 Software Products",
+         "description": "List of software products and web design solutions offered by Creative-2",
+         "itemListElement": [
+            {
+               "@type": "ListItem",
+               "position": 1,
+               "item": {
+                  "@type": "Product",
+                  "name": "Hotel Management Software",
+                  "url": "https://webdesigncompany.lk/hotel_management_software.php",
+                  "description": "HOPE cloud-based hotel management software with reservation management, channel manager, and real-time analytics"
+               }
+            },
+            {
+               "@type": "ListItem",
+               "position": 2,
+               "item": {
+                  "@type": "Product",
+                  "name": "Channel Manager Software",
+                  "url": "https://webdesigncompany.lk/free-channel-manager-srilanka.php",
+                  "description": "Free channel manager for hotels to manage pricing across multiple online platforms"
+               }
+            },
+            {
+               "@type": "ListItem",
+               "position": 3,
+               "item": {
+                  "@type": "Product",
+                  "name": "Inventory Management Software",
+                  "url": "https://webdesigncompany.lk/inventory_management_software.php",
+                  "description": "HOPE Inventory & Order Management software for managing inventories and orders from mobile devices"
+               }
+            },
+            {
+               "@type": "ListItem",
+               "position": 4,
+               "item": {
+                  "@type": "Product",
+                  "name": "Banquet Management Software",
+                  "url": "https://webdesigncompany.lk/banquet-management-and-event-planning-software-system-design-and-development-comapny-in-sri-lanka.php",
+                  "description": "Banquet management and event planning software for hotels with hall availability and booking management"
+               }
+            },
+            {
+               "@type": "ListItem",
+               "position": 5,
+               "item": {
+                  "@type": "Product",
+                  "name": "eCommerce Software",
+                  "url": "https://webdesigncompany.lk/ecommerce-websites-shopping-carts-software-design-and-development-company-in-sri-lanka.php",
+                  "description": "eCommerce and shopping cart software solutions for online stores and businesses"
+               }
+            },
+            {
+               "@type": "ListItem",
+               "position": 6,
+               "item": {
+                  "@type": "Product",
+                  "name": "Payroll Management Software",
+                  "url": "https://webdesigncompany.lk/online-payroll-management-software-system-in-sri-lanka.php",
+                  "description": "Cloud-based payroll management software with scalability, security, and cross-platform compatibility"
+               }
+            },
+            {
+               "@type": "ListItem",
+               "position": 7,
+               "item": {
+                  "@type": "Product",
+                  "name": "Medical Center Software",
+                  "url": "https://webdesigncompany.lk/medical-center-software-system-in-sri-lanka.php",
+                  "description": "HOPE Medical Center Software for complete control over medical center, clinic, or hospital operations"
+               }
+            },
+            {
+               "@type": "ListItem",
+               "position": 8,
+               "item": {
+                  "@type": "Product",
+                  "name": "Online Ordering Software",
+                  "url": "https://webdesigncompany.lk/restaurant-order-online-software.php",
+                  "description": "Online ordering software for restaurants and food businesses with customizable features"
+               }
+            },
+            {
+               "@type": "ListItem",
+               "position": 9,
+               "item": {
+                  "@type": "Product",
+                  "name": "Tour Operator Software",
+                  "url": "https://webdesigncompany.lk/tour_operator_travel_agent_software.php",
+                  "description": "H.O.P.E Package Builder - powerful and adaptable tour operator software solution"
+               }
+            },
+            {
+               "@type": "ListItem",
+               "position": 10,
+               "item": {
+                  "@type": "Product",
+                  "name": "Website Design Services",
+                  "url": "https://webdesigncompany.lk/web_site_design_company_sri_lanka.php",
+                  "description": "Small, medium, and large scale website design and development services"
+               }
+            },
+            {
+               "@type": "ListItem",
+               "position": 11,
+               "item": {
+                  "@type": "Product",
+                  "name": "Abstract Submission and Membership Registration Platform",
+                  "url": "https://webdesigncompany.lk/abstract-submission-registration-membership-management-platform.php",
+                  "description": "Professional abstract submission and membership registration platform for academic events"
+               }
+            }
+         ]
+      },
+      "publisher": {
+         "@type": "Organization",
+         "name": "Creative-2",
+         "url": "https://webdesigncompany.lk",
+         "logo": {
+            "@type": "ImageObject",
+            "url": "https://webdesigncompany.lk/images/home/creative-2-web-design-and-software-development-company-in-sri-lanka.jpg"
+         }
+      }
+   }
+   </script>
+   
+   <!-- Website Schema -->
+   <script type="application/ld+json">
+   {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Creative-2 Web Design Company",
+      "url": "https://webdesigncompany.lk",
+      "description": "Professional web design and software development company in Sri Lanka",
+      "publisher": {
+         "@type": "Organization",
+         "name": "Creative-2"
+      },
+      "potentialAction": {
+         "@type": "SearchAction",
+         "target": "https://webdesigncompany.lk/search?q={search_term_string}",
+         "query-input": "required name=search_term_string"
+      }
+   }
+   </script>
 </head>
 
 <body>
@@ -296,15 +485,14 @@
                <div>
                   <!-- Title -->
                   <div class="services_page_title" title="Web Design and Software Development Services in Sri Lanka - Title">
-                     Online Ordering
+                  Digital Menu & Order Management POS
                      <br class="desktop_br">Software
                   </div>
                   <!-- Description -->
                   <p class="services_page_description text-left" title="Web Design and Software Development Services in Sri Lanka - Services">
-                     The software is ideal for both restaurant chains and single-location restaurants. It can also be used to build an online food ordering portal. The system is fully customizable, allowing you to tailor it to your specific business needs. </p>
-               </div>
+                  HOPE Digital Menu & Order Management POS software allows restaurants to manage operations efficiently from anywhere. Customers can access the digital menu via QR code on their smartphones, reducing the workload on hotel and restaurant staff.                </div>
                <!-- Button -->
-               <a href="restaurant-order-online-software.php" class="link" title="Web Design and Software Development Services in Sri Lanka - Button">
+               <a href="digital_menu_pos_restaurants.php" class="link" title="Web Design and Software Development Services in Sri Lanka - Button">
                   <button class="services_page_button" title="Web Design and Software Development Services in Sri Lanka - Button"> View Details <i class="fas fa-angle-double-right"></i></button>
                </a>
             </div>

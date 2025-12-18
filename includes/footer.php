@@ -1,5 +1,5 @@
 <!-- Footer 01 -->
-<div class="container-fluid py-4" id="footer1" title="Web Designing and Software Development Company in Sri Lanka">
+<div class="container-fluid py-4 w-100" id="footer1" title="Web Designing and Software Development Company in Sri Lanka" style="width: 100vw !important; margin-left: calc(-50vw + 50%) !important; margin-right: calc(-50vw + 50%) !important;">
    <div class="row" title="Web Designing and Software Development Company in Sri Lanka">
    	  <!-- Column 01 -->
       <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12" title="Creative-2 Web Designing and Software Development Company in Sri Lanka">
@@ -61,7 +61,7 @@
 </div>
 
 <!-- Footer 02 -->
-<div class="container-fluid py-3" id="footer2" title="Web Designing and Software Development Company in Sri Lanka">
+<div class="container-fluid py-3 w-100" id="footer2" title="Web Designing and Software Development Company in Sri Lanka" style="width: 100vw !important; margin-left: calc(-50vw + 50%) !important; margin-right: calc(-50vw + 50%) !important;">
    <div class="row" title="Web Designing and Software Development Company in Sri Lanka">
    	  <!-- Column 01 -->
       <div class="col-xl-4 col-lg-4 col-md-5 col-sm-12 col-12 order-3 order-md-1 order-xl-1 " id="" title="Web Designing and Software Development Company in Sri Lanka - Copyrights">

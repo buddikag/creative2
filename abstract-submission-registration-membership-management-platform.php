@@ -1,26 +1,149 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
    <head>
       <!-- Page Title -->
       <title>Abstract Submission and Membership Registration Platform : Design and Development</title>
       <link rel="canonical" href="https://webdesigncompany.lk/abstract-submission-registration-membership-management-platform.php">
-
+      <link rel="sitemap" type="application/xml" title="Sitemap" href="https://webdesigncompany.lk/sitemap.xml">
+      <meta name="description" content="Professional abstract submission and membership registration platform for academic events in Sri Lanka. Streamline conference registrations, abstract management, secure payments, and membership applications with our cloud-based solution.">
+      <meta name="keywords" content="abstract submission platform sri lanka, conference registration software, membership management system, academic event management, cloud-based registration platform, event registration system, secure payment processing, membership application software">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- Language Declaration -->
+      <meta http-equiv="Content-Language" content="en">
+      
+      <!-- Author and Copyright -->
+      <meta name="author" content="Creative-2 Web Design Company">
+      <meta name="copyright" content="© 2025 Creative-2. All rights reserved.">
+      <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+      
+      <!-- Performance Optimization -->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link rel="dns-prefetch" href="//www.google-analytics.com">
+      <link rel="dns-prefetch" href="//fonts.googleapis.com">
+      <link rel="dns-prefetch" href="//fonts.gstatic.com">
 
       <!-- Common Tags -->
       <?php require('includes/head.php') ?>
 
       <!-- SEO - Meta Tags -->
-      <meta name="description" content="Revolutionize Your Academic Event Management with Creative-2's comprehensive software solution. Streamline abstract submissions, conference registrations, and memberships. Features include abstract submission management, event registration, secure payment processing, membership management, user dashboard, admin capabilities, and more. Enhance efficiency, user-friendliness, security, and scalability for your organization's event management needs.">
-      <meta name="keywords" content="abstract submission, conference registration, membership management, academic event management, cloud-based platform, event registration system, secure payment processing, membership application, user dashboard, admin capabilities, efficient event management, scalable event solution">
+      
+      <!-- Additional SEO Meta Tags -->
+      <meta name="theme-color" content="#007bff">
+      <meta name="msapplication-TileColor" content="#007bff">
+      <meta name="application-name" content="Abstract Submission Platform">
+      <meta name="apple-mobile-web-app-title" content="Abstract Platform">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="default">
 
 
-      <!-- Facebook Meta Tags -->
+      <!-- Enhanced Open Graph Meta Tags -->
       <meta property="og:type" content="website">
-      <meta property="og:title" content="Comprehensive Solution for Managing Abstract Submissions, Conference Registrations, and Memberships">
-      <meta property="og:description" content="Revolutionize Your Academic Event Management with Creative-2's innovative software solution. Streamline abstract submissions, conference registrations, and memberships.">
-      <meta property="og:image" content="https://webdesigncompany.lk/abstract-submission-registration-membership-management-platform.php">
+      <meta property="og:title" content="Abstract Submission and Membership Registration Platform : Design and Development">
+      <meta property="og:description" content="Professional abstract submission and membership registration platform for academic events in Sri Lanka. Streamline conference registrations, abstract management, secure payments, and membership applications with our cloud-based solution.">
+      <meta property="og:image" content="https://webdesigncompany.lk/images/products/abstract-submission-platform-sri-lanka.jpg">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="630">
+      <meta property="og:image:alt" content="Abstract Submission and Membership Registration Platform - Academic event management software for Sri Lanka">
       <meta property="og:url" content="https://webdesigncompany.lk/abstract-submission-registration-membership-management-platform.php">
       <meta property="og:site_name" content="Creative-2">
+      <meta property="og:locale" content="en_US">
+      
+      <!-- Twitter Card Meta Tags -->
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@creative2lk" />
+      <meta name="twitter:creator" content="@creative2lk" />
+      <meta name="twitter:title" content="Abstract Submission and Membership Registration Platform : Design and Development" />
+      <meta name="twitter:description" content="Professional abstract submission and membership registration platform for academic events in Sri Lanka. Streamline conference registrations, abstract management, secure payments, and membership applications with our cloud-based solution." />
+      <meta name="twitter:image" content="https://webdesigncompany.lk/images/products/abstract-submission-platform-sri-lanka.jpg" />
+      <meta name="twitter:image:alt" content="Abstract Submission and Membership Registration Platform - Academic event management software for Sri Lanka" />
+      
+      <!-- Google Structured Data (JSON-LD) -->
+      <script type="application/ld+json">
+      {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Creative-2",
+          "alternateName": "Creative-2 Web Design Company",
+          "url": "https://webdesigncompany.lk",
+          "logo": "https://webdesigncompany.lk/images/home/creative-2-web-design-and-software-development-company-in-sri-lanka.jpg",
+          "description": "Professional web design and software development company in Sri Lanka specializing in abstract submission and membership registration platform solutions.",
+          "foundingDate": "2012",
+          "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "LK",
+              "addressRegion": "Western Province",
+              "addressLocality": "Colombo"
+          },
+          "contactPoint": {
+              "@type": "ContactPoint",
+              "telephone": "+94777514979",
+              "contactType": "customer service",
+              "availableLanguage": "English"
+          },
+          "email": "info@creative-2.com",
+          "sameAs": [
+              "https://www.facebook.com/creative2WebDesign"
+          ],
+          "serviceArea": {
+              "@type": "Country",
+              "name": "Sri Lanka"
+          }
+      }
+      </script>
+      
+      <!-- Website Schema -->
+      <script type="application/ld+json">
+      {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "Creative-2 Web Design Company",
+          "url": "https://webdesigncompany.lk",
+          "description": "Professional web design and software development company in Sri Lanka",
+          "publisher": {
+              "@type": "Organization",
+              "name": "Creative-2"
+          },
+          "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://webdesigncompany.lk/search?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+          }
+      }
+      </script>
+      
+      <!-- Product Schema for Abstract Submission Platform -->
+      <script type="application/ld+json">
+      {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Abstract Submission and Membership Registration Platform",
+          "description": "Professional abstract submission and membership registration platform for academic events with comprehensive features for conference management, secure payments, and membership applications.",
+          "image": "https://webdesigncompany.lk/images/products/abstract-submission-platform-sri-lanka.jpg",
+          "brand": {
+              "@type": "Brand",
+              "name": "Creative-2 Academic Solutions"
+          },
+          "manufacturer": {
+              "@type": "Organization",
+              "name": "Creative-2"
+          },
+          "offers": {
+              "@type": "Offer",
+              "price": "Contact for pricing",
+              "priceCurrency": "LKR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://webdesigncompany.lk/abstract-submission-registration-membership-management-platform.php"
+          },
+          "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "65"
+          },
+          "category": "Academic Event Management Software",
+          "keywords": "abstract submission platform, conference registration, membership management, academic event management, event registration system"
+      }
+      </script>
 
    </head>
 
@@ -29,16 +152,16 @@
       <?php require('includes/header.php') ?>
 
       <!-- Page Title -->
-      <div class="container-fluid inner_page_title2" id="inner_page_title" title="Creative-2 : Abstract Submission and Membership Registration Platform - Title">
+      <section class="container-fluid inner_page_title2" id="inner_page_title" title="Creative-2 : Abstract Submission and Membership Registration Platform - Title" aria-labelledby="main-heading">
          <div class="row" title="Creative-2 : Abstract Submission and Membership Registration Platform - Title">
             <div class="col-md-12 col-sm-12 col-12 col-lg-12 col-xl-12" title="Creative-2 : Abstract Submission and Membership Registration Platform - Title">
-                <h1>Abstract Submission and Membership Registration Platform</h1>
+                <h1 id="main-heading">Abstract Submission and Membership Registration Platform</h1>
             </div>
          </div>
-      </div>
+      </section>
 
       <!-- Introduction -->
-      <div class="container-fluid products_title_section wow fadeIn Abstract-Submission-and-Membership-Registration-Platform_title_background" id="software_title_background" title="Abstract Submission and Membership Registration Platform - Details">
+      <section class="container-fluid products_title_section wow fadeIn Abstract-Submission-and-Membership-Registration-Platform_title_background" id="software_title_background" title="Abstract Submission and Membership Registration Platform - Details" aria-labelledby="main-heading">
          <!-- Row -->
          <div class="row" title="Abstract Submission and Membership Registration Platform - Details">
             <!-- Column 01 -->
@@ -49,17 +172,18 @@
                   <!-- Description -->
                   <div id="products_summary" class=" wow fadeIn" title="Abstract Submission and Membership Registration Platform - Details">Creative-2's innovative software solution is specifically designed to streamline the management of abstract submissions and conference registrations of annual academic sessions and conferences. Our cloud-based platform provides a seamless and efficient experience for both participants and administrators, ensuring a smooth and successful event every time</div>
                   <!-- Contact -->
-                  <div id="products_contact" class=" wow fadeIn" title="Abstract Submission and Membership Registration Platform - Contact Details">Contact : 0777 514 979 | info@creative-2.com</div>
+                  <div id="products_contact" class=" wow fadeIn" title="Abstract Submission and Membership Registration Platform - Contact Details">Contact : <a href="tel:+94777514979" aria-label="Call us at 0777 514 979">0777 514 979</a> | <a href="mailto:info@creative-2.com" aria-label="Email us at info@creative-2.com">info@creative-2.com</a></div>
                </div>
             </div>
          </div>
-      </div> 
+      </section> 
 
-      <!-- Featues & Services -->
-      <div class="container">
+      <!-- Features & Services -->
+      <section class="container" aria-labelledby="features-heading">
       	 <!-- Title Row -->
          <div class="row wow fadeIn">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 subtitle_type1" id="modules_title">
+               <h2 id="features-heading" class="sr-only">Key Features</h2>
                <span class="subtitle_type1_word1" title="Web Design and Software Development Services in Sri Lanka">Key </span> 
                <span class="subtitle_type1_word2" title="Web Design and Software Development Services in Sri Lanka">Features</span>
             </div>
@@ -68,10 +192,10 @@
          <!-- Row 01 -->
          <div class="row">
             <!-- Column 01 -->
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12  wow fadeIn " title="Abstract Submission and Membership Registration Platform - Design and Development Company in Sri Lanka - Concept Design" >
+               <article class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12  wow fadeIn " title="Abstract Submission and Membership Registration Platform - Design and Development Company in Sri Lanka - Concept Design" >
                
                   	 <!-- Main feature -->
-                     <div class="products_single_page_slogan2 "  id="  wow fadeIn" title="Abstract Submission and Membership Registration Platform - Details - Platform">Abstract Submission Management</div>
+                     <h3 class="products_single_page_slogan2 "  id="  wow fadeIn" title="Abstract Submission and Membership Registration Platform - Details - Platform">Abstract Submission Management</h3>
                      <!-- sub text -->
                      <ul class="features_ul wow fadeInLeft " title="Abstract Submission and Membership Registration Platform - Details - Platform"> 
                         <li title="Abstract Submission and Membership Registration Platform - Details - Platform"><span class="subtitle_type1_word2" > Register and Create Profile:</span> <br>Abstract submitters can easily register and create a detailed profile on our cloud-based system.

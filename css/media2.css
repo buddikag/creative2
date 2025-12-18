@@ -458,9 +458,9 @@
    }
    #products_title_text_box {
 	border-radius: 0;
-	height: 600px;
+	min-height: 400px;
     margin-top:0px !important;
-    padding-top: 15px !important;
+    padding: 40px !important;
     margin-left: 0px !important
 
    }

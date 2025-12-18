@@ -1452,7 +1452,7 @@ input[type="number"]::-ms-outer-spin-button {
 }
 
 .fa-square-full {
-  color: #247a88;
+  color: #715c97;
   margin-right: 2%;
 }
 
@@ -1499,7 +1499,7 @@ input[type="number"]::-ms-outer-spin-button {
   color: white;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-color: #021615;
+  background-color: #2b204e;
   /* background-position-y: -320px; */
   background-blend-mode: multiply;
   background-size: cover;
@@ -1562,8 +1562,8 @@ input[type="number"]::-ms-outer-spin-button {
 }
 
 #hotel_management_software_colour_box4 {
-  color: rgba(255, 255, 255, 0.837) !important;
-  background-color: var(--primary-dark);
+  color: rgba(14, 1, 17, 0.837) !important;
+  background-color: #e6e6e6;
 
 }
 
@@ -1653,7 +1653,7 @@ input[type="number"]::-ms-outer-spin-button {
   font-family: "Poppins", sans-serif;
   font-size: 2em;
   font-weight: bold;
-  color: white !important;
+  color: var(--text-dark) !important;
   margin-bottom: 15px;
 }
 
@@ -1671,16 +1671,16 @@ input[type="number"]::-ms-outer-spin-button {
 #products_title_text_box {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  background-color: rgba(0, 0, 0, 0.5);
-  color: white;
+  justify-content: flex-start;
+  background-color:#e6e6e6;
+  color: rgb(10, 0, 0);
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 25px;
-  margin-left: 5%;
-  margin-top: 50px;
+
   padding-bottom: 25px;
   border-radius: 8px;
+  border: 1px solid rgb(207, 204, 204);
 }
 
 .inner_page_title2 {
@@ -1710,6 +1710,10 @@ input[type="number"]::-ms-outer-spin-button {
 }
 .inventory_management_software_title_background {
   background-image: url("../images/products/creative-2-inventory-management-and-online-ordering-software-sri-lanka-main.jpg");
+}
+
+.restaurant-menu-bg {
+  background-image: url("../images/products/digital-restaurant-menus-hope-2.jpg") ; 
 }
 
 .spare_parts_software_title_background {
@@ -1758,12 +1762,12 @@ input[type="number"]::-ms-outer-spin-button {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
   font-size: 1.5em;
-  background-color: #b00808;
+  background-color: #d7d5dc;
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 3%;
   padding-right: 3%;
-  color: white;
+  color: var(--primary-color);
   border-radius: 10px;
 }
 
@@ -2338,7 +2342,7 @@ input[type="number"]::-ms-outer-spin-button {
 
 /* Updated Text Colors */
 .products_single_page_slogan {
-  color: var(--primary-color);
+  color: var(--text-dark);
 }
 
 .products_single_page_slogan2 {
@@ -2560,6 +2564,11 @@ input[type="number"]::-ms-outer-spin-button {
 }
 
 @media (max-width: 768px) {
+  .restaurant-menu-bg {
+    background-position: center center;
+    background-position-y: 0;
+  }
+
   .main-title {
     font-size: 2.5rem;
   }

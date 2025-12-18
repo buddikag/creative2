@@ -1,26 +1,150 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 
 <head>
    <!-- Page Title -->
-<title>Hotel Management System | Hotel Management Software | Hotel Systems Sri Lanka</title>   <link rel="canonical" href="https://webdesigncompany.lk/hotel_management_software.php">
+<title>Hotel Management System | Hotel Management Software | Hotel Systems Sri Lanka</title>
+   <link rel="canonical" href="https://webdesigncompany.lk/hotel_management_software.php">
+   <!-- SEO - Meta Tags -->
+ <meta name="description" content="HOPE cloud-based hotel management software offers comprehensive features to streamline operations, enhance guest experiences, and improve efficiency. Free channel manager, real-time analytics, and cross-platform compatibility.">
+   <meta name="keywords" content="hotel management software sri lanka, hotel management system, HOPE PMS, cloud-based hotel software, channel manager, booking engine, hotel property management, hotel systems, web-based hotel software, hotel management solutions">
+   
+ 
+   <!-- Language Declaration -->
+   <meta http-equiv="Content-Language" content="en">
+   
+   <!-- Author and Copyright -->
+   <meta name="author" content="Creative-2 Web Design Company">
+   <meta name="copyright" content="© 2025 Creative-2. All rights reserved.">
+   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+   
+   <!-- Performance Optimization -->
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link rel="dns-prefetch" href="//www.google-analytics.com">
+   <link rel="dns-prefetch" href="//fonts.googleapis.com">
+   <link rel="dns-prefetch" href="//fonts.gstatic.com">
 
 
    <!-- Common Tags -->
    <?php require('includes/head.php') ?>
 
-   <!-- SEO - Meta Tags -->
-   <meta name="description" content="hotel property management software and booking system. (Access from anywhere with any device) Its a next generation application. HOPE is a Fully web based centralize hotel property management software and booking system. (Access from anywhere with any device) Its a next generation application framework combines state-of-the-art technology with advanced user features to deliver the hospitality industry's most flexible and easy-to-use reservation and distribution solution. Integrated with Channel Managers, Access from anywhere with any device, Unlimited user accounts, Cross platform compatibility (OS independent), Cost Effective (Low hardware cost), Centralized data is secure and easy to backup, Easier installation and maintenance, Adaptable to increased workload, No IT knowledge is require to operate the software">
-   <meta name="keywords" content="hotel management software in sri lanka, hotel management system in sri lanka, web design sri lanka, sri lanka web design, web designers in sri lanka, web design in sri lanka, web development sri lanka, sri lanka web design, web designing sri lanka,online hotel management software, features of hotel management, pms sri lanka, booking software hotel,hotel property management software, destinity hotel management, Hotel Management System, Channel manager, Free channel manager,print receipts, Hotel Property Management System, Hotel Bookign Engine, Hotel Managemnt Software, Web based hotel management system, Hotel management back office sri lanka, Hotel Software, Software Development, hotel management software sri lanka, web design sri lanka, destinity hotel management, hotel management system, web development company, hotel management solutions, web based hotel management system,hotel management system software, software companies in sri lanka, web based hotel management software, hotel website design company, web based software development, web based hotel booking software, online hotel booking sri lanka, sri lanka software companies, hotel property management systems, website design, web design , tour company website design, hotel management software price website, design for software company, sri lanka web design companies, creative web designing , sri lanka software, online room reservation software, web design company in sri lanka, hotel billing systems online, hotel management solution, web designing companies in sri lanka, web based software, hotel room system in stock,pos system sri lanka,hotel managment system, report on hotel management, online hotel software, hotel room booking software, online hotel management, web designers in sri lanka,web based hotel booking system,hotel management softwares, hotel management software, free hotel reservation software, software hotel management,online booking systems for hotels, software development companies in sri lanka, software and web development company,hotel systems solutions,property management sri lanka,software development sri lanka, web designing support sri lanka, property management systems for hotels, hotel booking website software, software design company, software sri lanka, hotel management system software, hotel management software, web design companies in sri lanka, website development in sri lanka, pos system in sri lanka, hotel front office software, advantages of hotel management system,hotel management web application,hotel room software,buy hotel control panel,sri lanka hotel bookings online, hotel room management software, tour operator website software, web development company in sri lanka, website designers in sri lanka, hotel management software, sri lanka web development , software company website design,hotel pms system,sri lanka web designing , creative website, hotel management system, creative web development company, bookings.lk/back office ,receipt printer,property management systems hotel industry,web development sri lanka, website design sri lanka,online hotel booking sri lanka,hotel management system website, java developer vacancy, web development in sri lanka, online motel management software, web design sri lanka price, online hotel management system sri lanka, software development companies,  web design, hotel management system, web based hotel management software system, kot bot,hotel check in software,front office system software
-         ,hotel payroll system, kpi for software development, restaurant online reservation software, room management software, online hotel management software, best hotel website design sri lanka, channel manager,channel management,booking engine,channel manager hotel,hotel channel manager,hotel booking engine,channel manager for hotels,internet booking engine,online booking engine,channel management system,hotel management software features
-         ,booking channel manager,pos display,web based hotel pms,hotel channel management,booking engine hotel,hotel manager software,channel managers for hotels,best channel manager,channel management hotel,best channel manager for hotels,hotel distribution channels,the channel manager,best hotel channel manager,hotel channel,online channel manager,ota channel manager,hotel channel management system,web booking engine,channel manager system,hotel booking channel manager,distribution channel management,channel manager it,distribution channel manager,online channel management,channel management company,ota booking engine,channel management solutions,hotel management free software,channel management process,it channel manager,booking channel,room cloud channel manager,hotel distributors,front office management software,hotel chanel,channel manager booking system,channel hotel,multi channel management,partner channel management,hotel back office software,hotel software management software,effective channel management,channel manager ota,management channel,channel management definition,siteminder channel manager,channel marketing manager,distribution and channel management,smart hotel channel manager,channel management distribution,ch manager,what is channel management,channel management software,manager booking,booking engine software,channel booking,distributed channel management system,sales account manager,national account manager,channel manager free,account manager,channel management strategy,channel manager definition,channel partner management,what is a channel manager,integrated channel management,travel booking engine,ratetiger channel manager,staah channel manager,channel manager booking,hotel booking management,sales channel management,channel sales manager,channel manager airbnb,marketing channel management,ezyield channel manager,online booking channels,hotel channel manager comparison,star channel manager,hotel distribution management,vacation rental channel manager,channel management decisions,hotel channel manager software,free channel manager,channel manager jobs,booking com channel manager,rental channel manager,channel manager software,channel management ppt,channel account manager,channel manager job description,travelclick channel management,channel sales management,trust channel manager,global channel management,manager hotel,airbnb channel manager,hotel channel manager free,youtube channel manager,figaro channel manager,kigo channel manager,channel management examples,channel manager booking com,channel distribution management,channel management marketing,channel manager login,hostel channel manager,explain channel management,synxis channel manager,top channel,channel manager wikipedia,hotel booking manager,channel management handbook,channel manager api,channel manager hostel,pms channel manager,myallocator,market channel,multi channel management software,rate tiger,channel manager siteminder,channel development manager,channel manager for hostels,channel manager salary,channel management best practices,free hotel channel manager software,channel meter,channel management training,channel manager for hotels in india,what is channel manager,hotel channel manager reviews,parity rate channel manager,define channel management,channel manager com au,hotel channel manager india,channelmanager login,kodi channel manager,dingus channel manager,examples of channel management,youtube channel management,multi channel manager,hotel channel management software,sales channel manager,channel manager wiki,channel manager for vacation rentals,free hotel channel manager,channel manager wordpress,channel portal,channel partner manager,channel manager vacation rentals,palestine tv live,what does a channel manager do,booking com channel manager api,channel market,hotel channel manager api,website booking engine,expedia channel manager,digital channel manager,channel manager hotel open source,channel manager singapore,ecommerce channel manager,travelclick channel manager,channel sales management system,wordpress channel manager,definition of channel management,hotelrunner channel manager,hotel channel manager open source,what is channel management in marketing,crm channel management,fastbooking channel manager,free channel manager for hotels,channel manager australia,channel marketing management,avantio channel manager,channel manager meaning,xotelia channel manager,what is channel manager hotel industry,pegasus booking engine,the channel managing agency,channel management courses,windsurfer booking engine,channel management in marketing,ezee channel manager,channel management services,reservation channels,software channel manager,rep channel management,djubo channel manager,phobs channel manager,channel manager software for hotels,channel manager responsibilities,managing channel partners,hotel channel manager wiki,channel management jobs,channel selling,channel management travelclick,channel account manager definition,joomla channel manager,retail channel management,partner channel manager,ihotelier channel manager,channel manager description,nepali channels,freetobook channel manager,myallocator channel manager,sales and channel management,wix channel manager,cheapest channel manager,marketing channel manager,international channel manager,national channel manager,channel management meaning,taiwan tv channel list,resonline channel manager,xml channel manager,channel manager staah,booking channel manager api,channel manager travelclick,channel program manager,lean channel management,rategain channel manager,booking manager,beds24 channel manager,digital channel management,cox tv stations,rms channel manager,maximojo channel manager,bookmanager,rezovation booking engine,channel relationship management,omnibees channel manager,regional channel manager,channel management wiki,display channel,expedia booking engine,staah booking engine,opera channel manager,booking com booking engine,product channel,channel manager hotel definition,channel manager resume,channel business manager,channel manager tasmania,hisite channel manager,what is a channel manager definition,pegasus channel manager,sabre channel manager,agoda channel manager,channel manager india,micros channel manager,mirai booking engine,cci channel management,retail channel manager,software channel,reznext channel manager,distribution channel management definition,strategic channel management,channel management definition wikipedia,national channel,levart channel manager,manager of hotel,types of channel management,channel management adalah,chinese channels online,channel cost,ezee booking engine,job description channel manager,xmitter channel manager,channel events,definition channel management,manager in hotel,tv channel management,meaning of channel management,marketing channel management definition,menger hotel,axis channel manager,rate manager,rate manager booking com,channel management job description,chanel account manager,tv stations washington dc,channel products,channel display,channel url list,ota manager,tv network logos,inside channel account manager,booking rate manager,channel services,channel screen,manager of the hotel,manager of a hotel,bright channel,100 channel,system channel,channel solutions,marketing channel management is also called ,best channel,channel owner, online hotel booking in sri lanka, online property management systems, kot hotel,hope software,hotel management system report, hotel management system in stock, web design company, web designing,hotel management software online, property management web based software, web designer sri lanka, hotel management software sri lanka,online hotel reservation software,front office software hotel management,access control hotels,sri lanka hotel industry,hotel billing software price, property management sri lanka,software for hotel management,hotel industry software,software for hotel industry,online hotel management system,hotel management software,web based tour operator software,hotel payroll software,web based hotel management software,web developer sri lanka,sri lanka software,hotel management system in c,checkout system,hotel management systems,pos printer,payroll system in sri lanka,booking diary software,hope software,online hotel billing software,online hotel management software,web based tour operator,software for tour operators,creative software sri lanka,tour agent software,grc in hotel industry, hotel management solution,tour operator software,hotel solutions sri lanka,hotel management software online,tour operator web design,software design document for hotel management system,hotel inventory management software,hotel management software list, property management software, hotel reception software, booking engine hotel, hotel software online, banquet management software, banquet manager software in sri lanka, event management software, event planning software">
+    <!-- Additional SEO Meta Tags -->
+   <meta name="theme-color" content="#007bff">
+   <meta name="msapplication-TileColor" content="#007bff">
+   <meta name="application-name" content="HOPE Hotel Management Software">
+   <meta name="apple-mobile-web-app-title" content="HOPE PMS">
+   <meta name="apple-mobile-web-app-capable" content="yes">
+   <meta name="apple-mobile-web-app-status-bar-style" content="default">
 
-   <!-- Facebook Meta Tags -->
-   <meta property="og:url" content="http://webdesigncompany.lk/hotel_management_software.php" />
+   <!-- Enhanced Open Graph Meta Tags -->
+   <meta property="og:url" content="https://webdesigncompany.lk/hotel_management_software.php" />
    <meta property="og:type" content="website" />
-   <meta property="og:title" content="Hotel Management Software" />
-   <meta property="og:description" content="Hotel property management software and booking system. (Access from anywhere with any device) Its a next generation application. HOPE is a Fully web based centralize hotel property management software and booking system" />
-   <meta property="og:image" content="http://webdesigncompany.lk/images/products/creative-2-hotel-management-software-sri-lanka-main.jpg" />
+   <meta property="og:title" content="Hotel Management System | Hotel Management Software | Hotel Systems Sri Lanka" />
+   <meta property="og:description" content="HOPE cloud-based hotel management software offers comprehensive features to streamline operations, enhance guest experiences, and improve efficiency. Free channel manager, real-time analytics, and cross-platform compatibility." />
+   <meta property="og:image" content="https://webdesigncompany.lk/images/products/creative-2-hotel-management-software-sri-lanka-main.jpg" />
+   <meta property="og:image:width" content="1200" />
+   <meta property="og:image:height" content="630" />
+   <meta property="og:image:alt" content="HOPE Hotel Management Software - Cloud-based hotel management system for Sri Lanka" />
+   <meta property="og:site_name" content="Creative-2" />
+   <meta property="og:locale" content="en_US" />
+   
+   <!-- Twitter Card Meta Tags -->
+   <meta name="twitter:card" content="summary_large_image" />
+   <meta name="twitter:site" content="@creative2lk" />
+   <meta name="twitter:creator" content="@creative2lk" />
+   <meta name="twitter:title" content="Hotel Management System | Hotel Management Software | Hotel Systems Sri Lanka" />
+   <meta name="twitter:description" content="HOPE cloud-based hotel management software offers comprehensive features to streamline operations, enhance guest experiences, and improve efficiency. Free channel manager, real-time analytics, and cross-platform compatibility." />
+   <meta name="twitter:image" content="https://webdesigncompany.lk/images/products/creative-2-hotel-management-software-sri-lanka-main.jpg" />
+   <meta name="twitter:image:alt" content="HOPE Hotel Management Software - Cloud-based hotel management system for Sri Lanka" />
+   
+   <!-- Google Structured Data (JSON-LD) -->
+   <script type="application/ld+json">
+   {
+       "@context": "https://schema.org",
+       "@type": "Organization",
+       "name": "Creative-2",
+       "alternateName": "Creative-2 Web Design Company",
+       "url": "https://webdesigncompany.lk",
+       "logo": "https://webdesigncompany.lk/images/home/creative-2-web-design-and-software-development-company-in-sri-lanka.jpg",
+       "description": "Professional web design and software development company in Sri Lanka specializing in hotel management software solutions.",
+       "foundingDate": "2015",
+       "address": {
+           "@type": "PostalAddress",
+           "addressCountry": "LK",
+           "addressRegion": "Western Province",
+           "addressLocality": "Colombo"
+       },
+       "contactPoint": {
+           "@type": "ContactPoint",
+           "telephone": "+94777514979",
+           "contactType": "customer service",
+           "availableLanguage": "English"
+       },
+       "email": "info@creative-2.com",
+       "sameAs": [
+           "https://www.facebook.com/creative2WebDesign"
+   
+       ],
+       "serviceArea": {
+           "@type": "Country",
+           "name": "Sri Lanka"
+       }
+   }
+   </script>
+   
+   <!-- Website Schema -->
+   <script type="application/ld+json">
+   {
+       "@context": "https://schema.org",
+       "@type": "WebSite",
+       "name": "Creative-2 Web Design Company",
+       "url": "https://webdesigncompany.lk",
+       "description": "Professional web design and software development company in Sri Lanka",
+       "publisher": {
+           "@type": "Organization",
+           "name": "Creative-2"
+       },
+       "potentialAction": {
+           "@type": "SearchAction",
+           "target": "https://webdesigncompany.lk/search?q={search_term_string}",
+           "query-input": "required name=search_term_string"
+       }
+   }
+   </script>
+   
+   <!-- Product Schema for HOPE Hotel Management Software -->
+   <script type="application/ld+json">
+   {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "name": "HOPE Hotel Management Software",
+       "description": "Cloud-based hotel management software with comprehensive features including reservation management, channel manager, booking engine, and real-time analytics.",
+       "image": "https://webdesigncompany.lk/images/products/creative-2-hotel-management-software-sri-lanka-main.jpg",
+       "brand": {
+           "@type": "Brand",
+           "name": "HOPE PMS"
+       },
+       "manufacturer": {
+           "@type": "Organization",
+           "name": "Creative-2"
+       },
+       "offers": {
+           "@type": "Offer",
+           "price": "Contact for pricing",
+           "priceCurrency": "LKR",
+           "availability": "https://schema.org/InStock",
+           "url": "https://webdesigncompany.lk/hotel_management_software.php"
+       },
+       "aggregateRating": {
+           "@type": "AggregateRating",
+           "ratingValue": "4.8",
+           "reviewCount": "120"
+       },
+       "category": "Hotel Management Software",
+       "keywords": "hotel management software, hotel systems, channel manager, booking engine, cloud-based PMS"
+   }
+   </script>
 </head>
 
 <body>
@@ -28,17 +152,17 @@
    <?php require('includes/header.php') ?>
 
    <!-- Page Title -->
-   <div class="container-fluid inner_page_title2" id="inner_page_title" title="Creative-2 : Hotel Management Software In Sri Lanka - Title">
+   <section class="container-fluid inner_page_title2" id="inner_page_title" title="Creative-2 : Hotel Management Software In Sri Lanka - Title" aria-labelledby="main-heading">
       <div class="row" title="Creative-2 : Hotel Management Software In Sri Lanka - Title">
          <div class="col-md-12 col-sm-12 col-12 col-lg-12 col-xl-12 px-4 py-5" title="Creative-2 : Hotel Management Software In Sri Lanka - Title">
-            <h1 class="subheading_text">Revolutionize Your Hotel Operations with our Comprehensive<br>Hotel Management Software Solution</h1>
-            <h3 class="heading_text">Free Channel Manager</h3>
+            <h1 id="main-heading" class="subheading_text">Revolutionize Your Hotel Operations with our Comprehensive<br>Hotel Management Software Solution</h1>
+            <h2 class="heading_text">Free Channel Manager</h2>
          </div>
       </div>
-   </div>
+   </section>
 
    <!-- Introduction -->
-   <div class="container-fluid products_title_section wow fadeIn hotel_management_software_title_background" id="software_title_background" title="Hotel Management Software In Sri Lanka - Details">
+   <section class="container-fluid products_title_section wow fadeIn hotel_management_software_title_background" id="software_title_background" title="Hotel Management Software In Sri Lanka - Details" aria-labelledby="main-heading">
       <!-- Row -->
       <div class="row" title="Hotel Management Software In Sri Lanka - Details">
          <!-- Column 01 -->
@@ -59,9 +183,9 @@
                   <!-- Contact -->
                   <p class="mb-0">www.hopepms.com</p>
                   <div id="products_contact" class="mt-2 wow fadeIn" title="Hotel Management Software In Sri Lanka - Contact Details">
-                     <p class="mb-0">FREE Demo : 0777 514 979</p>
+                     <p class="mb-0">FREE Demo : <a style="color: #dee2e6;"  href="tel:+94777514979" aria-label="Call us for free demo at 0777 514 979">0777 514 979</a></p>
                      <div class="d-flex flex-column flex-lg-row">
-                        <a href="http://www.hopepms.com" style="color: #dee2e6;">www.hopepms.com</a>
+                        <a href="http://www.hopepms.com" style="color: #dee2e6;" aria-label="Visit HOPE PMS website">www.hopepms.com</a>
                         <span class="d-none d-lg-block">&nbsp;|&nbsp;</span>
                         <p class="mb-0">info@creative-2.com</p>
                      </div>
@@ -70,36 +194,36 @@
             </div>
          </div>
       </div>
-   </div>
+   </section>
 
    <!-- Modules -->
-   <div class="container" title="Hotel Management Software System in Sri Lanka - Modules">
+   <section class="container" title="Hotel Management Software System in Sri Lanka - Modules" aria-labelledby="modules-heading">
       <!-- Row 01 -->
       <div class="row pt-4 pb-3" title="Hotel Management Software System in Sri Lanka - Modules">
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka In Sri Lanka - Modules - Self Check-out">
-            <a href="#front_office" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Front Office">
+         <article class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka In Sri Lanka - Modules - Self Check-out">
+            <a href="#front_office" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Front Office" aria-label="Navigate to Front Office module section">
                <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box1" title="Hotel Management Software System in Sri Lanka - Modules - Self Check-out" title="Hotel Management Software In Sri Lanka - Modules - Front Office"> <i class=" fas fa-bed" aria-hidden="true"></i>
                   Front Office
                </div>
             </a>
-         </div>
+         </article>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Back Office">
-            <a href="#back_office" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Back Office">
+         <article class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Back Office">
+            <a href="#back_office" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Back Office" aria-label="Navigate to Back Office module section">
                <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box2" title=" Hotel Management Software System in Sri Lanka - Modules - Back Office"> <i class="fa fa-folder-open" aria-hidden="true"></i>
                   Back Office
                </div>
             </a>
-         </div>
+         </article>
          <!-- Module -->
-         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Booking Engine">
-            <a href="#booking_engine" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Booking Engine">
-               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box3" title="Hotel Management Software System in Sri Lanka - Modules - Booking Engine" id="hotel_management_software_colour_box3"><i class="fas fa-hand-pointer" aria-hidden="true"></i>
+         <article class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Booking Engine">
+            <a href="#booking_engine" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Booking Engine" aria-label="Navigate to Booking Engine module section">
+               <div class="hotel_management_software_colour_box" id="hotel_management_software_colour_box3" title="Hotel Management Software System in Sri Lanka - Modules - Booking Engine"><i class="fas fa-hand-pointer" aria-hidden="true"></i>
                   Booking Engine
                </div>
             </a>
-         </div>
+         </article>
          <!-- Module -->
          <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 wow fadeInUp" title="Hotel Management Software System in Sri Lanka - Modules - Channel Manager">
             <a href="free-channel-manager-srilanka.php" target="_blank" class="hotel_managment_modules_navigation" title="Hotel Management Software - Sri Lanka - Channel Manager">
@@ -902,7 +1026,7 @@
    <!-- Footer -->
    <?php require('includes/footer.php') ?>
 
-   <!-- Structured Data for SEO -->
+   <!-- Enhanced Structured Data for SEO -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -910,7 +1034,9 @@
   "name": "HOPE Hotel Management System",
   "alternateName": [
     "Hotel Management Software",
-    "Hotel Systems"
+    "Hotel Systems",
+    "HOPE PMS",
+    "Cloud-based Hotel Management"
   ],
   "applicationCategory": "BusinessApplication",
   "operatingSystem": "Web-based, OS independent",
@@ -919,7 +1045,8 @@
   "image": "https://webdesigncompany.lk/images/products/creative-2-hotel-management-software-sri-lanka-main.jpg",
   "author": {
     "@type": "Organization",
-    "name": "Creative-2"
+    "name": "Creative-2",
+    "url": "https://webdesigncompany.lk"
   },
   "publisher": {
     "@type": "Organization",
@@ -931,15 +1058,33 @@
     "price": "Contact for pricing",
     "priceCurrency": "LKR",
     "availability": "https://schema.org/InStock",
-    "url": "https://webdesigncompany.lk/hotel_management_software.php"
+    "url": "https://webdesigncompany.lk/hotel_management_software.php",
+    "seller": {
+      "@type": "Organization",
+      "name": "Creative-2"
+    }
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.8",
-    "reviewCount": "120"
+    "reviewCount": "120",
+    "bestRating": "5",
+    "worstRating": "1"
   },
   "applicationSuite": "HOPE PMS",
-  "keywords": "Hotel Management System, Hotel Management Software, Hotel Systems, Sri Lanka, Cloud PMS, Channel Manager, Booking Engine"
+  "keywords": "Hotel Management System, Hotel Management Software, Hotel Systems, Sri Lanka, Cloud PMS, Channel Manager, Booking Engine",
+  "featureList": [
+    "Cloud-based access from anywhere",
+    "Free channel manager integration",
+    "Real-time analytics and reporting",
+    "Cross-platform compatibility",
+    "Unlimited user accounts",
+    "Secure data backup",
+    "Easy installation and maintenance"
+  ],
+  "softwareVersion": "2.0",
+  "datePublished": "2020-01-01",
+  "dateModified": "2024-01-01"
 }
 </script>
 
